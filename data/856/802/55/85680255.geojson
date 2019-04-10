@@ -1,0 +1,392 @@
+{
+  "id": 85680255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:area_square_m":718132.402486,
+    "geom:bbox":"-176.485829231,0.19033437683,-176.459177213,0.225897528448",
+    "geom:latitude":0.201864,
+    "geom:longitude":-176.474652,
+    "iso:country":"UM",
+    "label:eng_x_preferred_longname":[
+        "Baker Island Unincorporated Territory"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "unincorporated territory"
+    ],
+    "lbl:latitude":0.194349,
+    "lbl:longitude":-176.47926,
+    "mps:latitude":0.194349,
+    "mps:longitude":-176.47926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Baker-eiland"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0628\u064a\u0643\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Beyker adas\u0131"
+    ],
+    "name:bar_x_preferred":[
+        "Bakerinsl"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0411\u044d\u0439\u043a\u0435\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u044d\u0439\u043a\u0435\u0440"
+    ],
+    "name:bos_x_preferred":[
+        "Ostrvo Baker"
+    ],
+    "name:cat_x_preferred":[
+        "Illa Baker"
+    ],
+    "name:ces_x_preferred":[
+        "Baker\u016fv ostrov"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0439\u043a\u0435\u0440"
+    ],
+    "name:cor_x_preferred":[
+        "Enys Baker"
+    ],
+    "name:dan_x_preferred":[
+        "Baker Island"
+    ],
+    "name:deu_x_preferred":[
+        "Bakerinsel"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03af\u03b7\u03ba\u03b5\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Baker Island"
+    ],
+    "name:epo_x_preferred":[
+        "Bakerinsulo"
+    ],
+    "name:est_x_preferred":[
+        "Bakeri saar"
+    ],
+    "name:eus_x_preferred":[
+        "Baker uhartea"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0628\u06cc\u06a9\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Baker"
+    ],
+    "name:fra_x_colloquial":[
+        "Ile Baker"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Baker"
+    ],
+    "name:glg_x_preferred":[
+        "Illa Baker"
+    ],
+    "name:hbs_x_preferred":[
+        "Otok Baker"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d9\u05e7\u05e8"
+    ],
+    "name:hrv_x_preferred":[
+        "Otok Baker"
+    ],
+    "name:hun_x_preferred":[
+        "Baker-sziget"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0575\u0584\u0565\u0580\u056b \u056f\u0572\u0566\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Insulo Baker"
+    ],
+    "name:ido_x_variant":[
+        "Baker-insulo"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Baker"
+    ],
+    "name:isl_x_preferred":[
+        "Bakereyja"
+    ],
+    "name:ita_x_preferred":[
+        "Isola Baker"
+    ],
+    "name:jav_x_preferred":[
+        "Pulo Baker"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30fc\u30ab\u30fc\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d4\u10d8\u10d9\u10d4\u10e0\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0435\u0439\u043a\u0435\u0440 \u0430\u0440\u0430\u043b\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\uc774\ucee4 \uc12c"
+    ],
+    "name:lat_x_preferred":[
+        "Insula Baker"
+    ],
+    "name:lav_x_preferred":[
+        "Beikera sala"
+    ],
+    "name:lij_x_preferred":[
+        "Isoa Baker"
+    ],
+    "name:lim_x_preferred":[
+        "Baker Island"
+    ],
+    "name:ltz_x_preferred":[
+        "Baker-Insel"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d47\u0d15\u0d4d\u0d15\u0d7c \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0915\u0930 \u092c\u0947\u091f"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0435\u0458\u043a\u0435\u0440\u043e\u0432 \u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Pulau Baker"
+    ],
+    "name:nan_x_preferred":[
+        "Baker-t\u00f3"
+    ],
+    "name:nld_x_preferred":[
+        "Baker"
+    ],
+    "name:nor_x_preferred":[
+        "Baker\u00f8ya"
+    ],
+    "name:pol_x_preferred":[
+        "Baker"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Baker"
+    ],
+    "name:ron_x_preferred":[
+        "Insula Baker"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0439\u043a\u0435\u0440"
+    ],
+    "name:scn_x_preferred":[
+        "\u00ccsula Baker"
+    ],
+    "name:slk_x_preferred":[
+        "Bakerov ostrov"
+    ],
+    "name:slv_x_preferred":[
+        "Bakerjev otok"
+    ],
+    "name:sme_x_preferred":[
+        "Beass\u00e1\u0161suolu"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Baker"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0435\u0458\u043a\u0435\u0440"
+    ],
+    "name:sun_x_preferred":[
+        "Pulo Baker"
+    ],
+    "name:swe_x_preferred":[
+        "Baker\u00f6n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc7\u0b95\u0bcd\u0b95\u0bb0\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e40\u0e1a\u0e40\u0e01\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Baker Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u0439\u043a\u0435\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u06cc\u06a9\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Baker"
+    ],
+    "name:yor_x_preferred":[
+        "Er\u00e9k\u00f9\u1e63\u00f9 Baker"
+    ],
+    "name:yue_x_preferred":[
+        "\u8c9d\u514b\u5cf6"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Baker-t\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u514b\u5cf6"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u8c9d\u514b\u5cf6"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"UMI",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"8",
+    "ne:adm1_cod_1":"UMI-5171",
+    "ne:adm1_code":"UMI-5171",
+    "ne:admin":"United States Minor Outlying Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"UM.FQ",
+    "ne:code_local":"",
+    "ne:datarank":"11",
+    "ne:diss_me":"5171",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"FQ050",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Baker Island",
+    "ne:gn_a1_code":"UM.050",
+    "ne:gn_id":"5854907",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Baker Island",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"FQI",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"UM-81",
+    "ne:iso_a2":"UM",
+    "ne:labelrank":"20",
+    "ne:latitude":"0.19493100000",
+    "ne:longitude":"-176.47900000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":1,
+    "ne:name":"Baker Island",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"11",
+    "ne:sov_a3":"US1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":23424818,
+    "ne:woe_label":"",
+    "ne:woe_name":"Baker Island",
+    "qs:a0":"United States Minor Outlying Islands",
+    "qs:a0_lc":"UM",
+    "qs:a1":"Baker Island",
+    "qs:a1_lc":"UMI-5171",
+    "qs:adm0":"United States Minor Outlying Islands",
+    "qs:adm0_a3":"UMI",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-01-01",
+    "statoids:area_km":"3",
+    "statoids:area_mi":"1",
+    "statoids:as_of_date":"2010-01-01",
+    "statoids:capital":"",
+    "statoids:country":"UM",
+    "statoids:gec":"FQ",
+    "statoids:hasc":"UM.FQ",
+    "statoids:iso":"81",
+    "statoids:name":"Baker Island",
+    "statoids:population":"0",
+    "statoids:timezone":"-12",
+    "statoids:type":"unincorporated territory",
+    "unlc:subdivision":"UM-81",
+    "wd:wordcount":1917,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632333,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"FQ",
+        "gn:id":5854907,
+        "gp:id":23424818,
+        "hasc:id":"UM.FQ",
+        "iso:id":"UM-81",
+        "qs:id":58917,
+        "unlc:id":"UM-81",
+        "wd:id":"Q46879",
+        "wk:page":"Baker Island"
+    },
+    "wof:country":"UM",
+    "wof:geomhash":"91850c0a882300c888135292d5946f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632333,
+            "empire_id":136253057,
+            "region_id":85680255
+        }
+    ],
+    "wof:id":85680255,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550556,
+    "wof:name":"Baker Island",
+    "wof:parent_id":85632333,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"unincorporated territory",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-um",
+    "wof:shortcode":"FQ",
+    "wof:subdivision":"UM-81",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.4858292311341,
+    0.19033437683009,
+    -176.45917721255827,
+    0.22589752844823
+],
+  "geometry": {"coordinates":[[[[-176.47529049426086,0.19310130388209],[-176.47931881401203,0.19033437683009],[-176.48127193914866,0.19147370005129],[-176.48289954297951,0.19432200765459],[-176.48582923113409,0.19651927354567],[-176.48212643089005,0.19668203284959],[-176.47911536398283,0.19790273662204],[-176.47687740826575,0.19745514493906],[-176.47529049426086,0.19310130388209]]],[[[-176.45954342369004,0.22589752844823],[-176.45917721255827,0.21922435112293],[-176.46393795457291,0.22186920869706],[-176.45954342369004,0.22589752844823]]]],"type":"MultiPolygon"}
+}

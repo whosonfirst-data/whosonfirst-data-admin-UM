@@ -1,0 +1,375 @@
+{
+  "id": 85680263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00019,
+    "geom:area_square_m":2346650.488291,
+    "geom:bbox":"-160.029977994,-0.388767184358,-160.00890052,-0.372491143352",
+    "geom:latitude":-0.379633,
+    "geom:longitude":-160.019756,
+    "iso:country":"UM",
+    "label:eng_x_preferred_longname":[
+        "Jarvis Island Unincorporated Territory"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "unincorporated territory"
+    ],
+    "lbl:latitude":-0.379794,
+    "lbl:longitude":-160.019917,
+    "mps:latitude":-0.379794,
+    "mps:longitude":-160.019917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Jarvis-eiland"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u062c\u0627\u0631\u0641\u064a\u0633"
+    ],
+    "name:aze_x_preferred":[
+        "Carvis adas\u0131"
+    ],
+    "name:bar_x_preferred":[
+        "Jarvisinsel"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0414\u0436\u0430\u0440\u0432\u0456\u0441"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0436\u0430\u0440\u0432\u0456\u0441"
+    ],
+    "name:bos_x_preferred":[
+        "Ostrvo Jarvis"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u0430\u0440\u0432\u0438\u0441"
+    ],
+    "name:cat_x_preferred":[
+        "Illa Jarvis"
+    ],
+    "name:ces_x_preferred":[
+        "Jarvis\u016fv ostrov"
+    ],
+    "name:che_x_preferred":[
+        "\u0414\u0436\u0430\u0440\u0432\u0438\u0441"
+    ],
+    "name:deu_x_preferred":[
+        "Jarvisinsel"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03ac\u03c1\u03b2\u03b9\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Jarvis Island"
+    ],
+    "name:epo_x_preferred":[
+        "\u0134arvisinsulo"
+    ],
+    "name:est_x_preferred":[
+        "Jarvise saar"
+    ],
+    "name:eus_x_preferred":[
+        "Jarvis uhartea"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u062c\u0627\u0631\u0648\u06cc\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Jarvis"
+    ],
+    "name:fra_x_colloquial":[
+        "Ile Jarvis"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele Jarvis"
+    ],
+    "name:glg_x_preferred":[
+        "Illa Jarvis"
+    ],
+    "name:hbs_x_preferred":[
+        "Otok Jarvis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05e8\u05d1\u05d9\u05e1"
+    ],
+    "name:hrv_x_preferred":[
+        "Otok Jarvis"
+    ],
+    "name:hun_x_preferred":[
+        "Jarvis-sziget"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0561\u0580\u057e\u056b\u057d"
+    ],
+    "name:ido_x_preferred":[
+        "Insulo Jarvis"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Jarvis"
+    ],
+    "name:isl_x_preferred":[
+        "Jarviseyja"
+    ],
+    "name:ita_x_preferred":[
+        "Isola Jarvis"
+    ],
+    "name:jav_x_preferred":[
+        "Pulo Jarvis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30fc\u30f4\u30a3\u30b9\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10d4\u10e0\u10d5\u10d8\u10e1\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0414\u0436\u0430\u0440\u0432\u0438\u0441 \u0430\u0440\u0430\u043b\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\ub974\ube44\uc2a4 \uc12c"
+    ],
+    "name:lav_x_preferred":[
+        "D\u017e\u0113rvisa sala"
+    ],
+    "name:lij_x_preferred":[
+        "Isoa Jarvis"
+    ],
+    "name:lim_x_preferred":[
+        "Jarvis Island"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eervio sala"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d3e\u0d7c\u0d35\u0d3f\u0d38\u0d4d \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d4d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u040f\u0430\u0440\u0432\u0438\u0441\u043e\u0432 \u041e\u0441\u0442\u0440\u043e\u0432"
+    ],
+    "name:msa_x_preferred":[
+        "Pulau Jarvis"
+    ],
+    "name:nld_x_preferred":[
+        "Jarvis"
+    ],
+    "name:nor_x_preferred":[
+        "Jarvis\u00f8ya"
+    ],
+    "name:pol_x_preferred":[
+        "Jarvis"
+    ],
+    "name:por_x_preferred":[
+        "Ilha Jarvis"
+    ],
+    "name:ron_x_preferred":[
+        "Insula Jarvis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0440\u0432\u0438\u0441"
+    ],
+    "name:scn_x_preferred":[
+        "\u00ccsula Jarvis"
+    ],
+    "name:sco_x_preferred":[
+        "Jarvis Island"
+    ],
+    "name:slk_x_preferred":[
+        "Jarvisov ostrov"
+    ],
+    "name:slv_x_preferred":[
+        "Jarvisov otok"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Jarvis"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u0430\u0440\u0432\u0438\u0441"
+    ],
+    "name:sun_x_preferred":[
+        "Pulo Jarvis"
+    ],
+    "name:swe_x_preferred":[
+        "Jarvis\u00f6n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9c\u0bbe\u0bb0\u0bcd\u0bb5\u0bbf\u0bb8\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e08\u0e32\u0e23\u0e4c\u0e27\u0e34\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Jarvis Adas\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0430\u0440\u0432\u0456\u0441"
+    ],
+    "name:unk_x_variant":[
+        "Bunker Island"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u062c\u0627\u0631\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Jarvis"
+    ],
+    "name:yor_x_preferred":[
+        "Er\u00e9k\u00f9\u1e63\u00f9 Jarvis"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Jarvis-t\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cc8\u7dad\u65af\u5cf6"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u8cc8\u7dad\u65af\u5cf6"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"UMI",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"UMI-5173",
+    "ne:adm1_code":"UMI-5173",
+    "ne:admin":"United States Minor Outlying Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"UM.DQ",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5173",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"DQ150",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Jarvis Island",
+    "ne:gn_a1_code":"UM.150",
+    "ne:gn_id":"5854926",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Jarvis Island",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"DQI",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"UM-86",
+    "ne:iso_a2":"UM",
+    "ne:labelrank":"20",
+    "ne:latitude":"-0.38026800000",
+    "ne:longitude":"-160.01800000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":1,
+    "ne:name":"Jarvis Island",
+    "ne:name_alt":"",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"US1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":23424799,
+    "ne:woe_label":"",
+    "ne:woe_name":"Jarvis Island",
+    "qs:a0":"United States Minor Outlying Islands",
+    "qs:a0_lc":"UM",
+    "qs:a1":"Jarvis Island",
+    "qs:a1_lc":"UMI-5173",
+    "qs:adm0":"United States Minor Outlying Islands",
+    "qs:adm0_a3":"UMI",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-01-01",
+    "statoids:area_km":"4",
+    "statoids:area_mi":"2",
+    "statoids:as_of_date":"2010-01-01",
+    "statoids:capital":"",
+    "statoids:country":"UM",
+    "statoids:gec":"DQ",
+    "statoids:hasc":"UM.DQ",
+    "statoids:iso":"86",
+    "statoids:name":"Jarvis Island",
+    "statoids:population":"0",
+    "statoids:timezone":"-10",
+    "statoids:type":"unincorporated territory",
+    "unlc:subdivision":"UM-86",
+    "wd:wordcount":1974,
+    "wof:belongsto":[
+        102191575,
+        85632333,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"DQ",
+        "gn:id":5854926,
+        "gp:id":23424799,
+        "hasc:id":"UM.DQ",
+        "iso:id":"UM-86",
+        "qs:id":58916,
+        "unlc:id":"UM-86",
+        "wd:id":"Q62218"
+    },
+    "wof:country":"UM",
+    "wof:geomhash":"d303b1eff61305ab137f5cfa3871338c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632333,
+            "empire_id":136253057,
+            "region_id":85680263
+        }
+    ],
+    "wof:id":85680263,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550559,
+    "wof:name":"Jarvis Island",
+    "wof:parent_id":85632333,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"unincorporated territory",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-um",
+    "wof:shortcode":"DQ",
+    "wof:subdivision":"UM-86",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -160.02997799418904,
+    -0.38876718435802,
+    -160.00890051954332,
+    -0.37249114335151
+],
+  "geometry": {"coordinates":[[[-160.02997799418904,-0.37615325287027],[-160.02993730346375,-0.37615325287027],[-160.00890051954332,-0.37249114335151],[-160.0124405586848,-0.3820940079321],[-160.02476966049142,-0.38876718435802],[-160.02997799418904,-0.37615325287027]]],"type":"Polygon"}
+}

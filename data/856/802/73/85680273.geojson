@@ -1,0 +1,193 @@
+{
+  "id": 85680273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000322,
+    "geom:area_square_m":3513126.148655,
+    "geom:bbox":"-177.389597134,28.1976585966,-177.321156379,28.2153181015",
+    "geom:latitude":28.207232,
+    "geom:longitude":-177.367664,
+    "iso:country":"UM",
+    "label:eng_x_preferred_longname":[
+        "Midway Islands Unincorporated Territory"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "unincorporated territory"
+    ],
+    "lbl:latitude":28.207437,
+    "lbl:longitude":-177.374953,
+    "mps:latitude":28.207437,
+    "mps:longitude":-177.374953,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Midwayinseln"
+    ],
+    "name:eng_x_preferred":[
+        "Midway Islands"
+    ],
+    "name:fra_x_colloquial":[
+        "Iles Midway"
+    ],
+    "name:fra_x_preferred":[
+        "\u00celes Midway"
+    ],
+    "name:haw_x_preferred":[
+        "Pihemanu Kauihelani"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ub4dc\uc6e8\uc774"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Midway"
+    ],
+    "name:unk_x_variant":[
+        "Midway Island"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"UMI",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"8",
+    "ne:adm1_cod_1":"UMI-5176",
+    "ne:adm1_code":"UMI-5176",
+    "ne:admin":"United States Minor Outlying Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"UM.MQ",
+    "ne:code_local":"",
+    "ne:datarank":"11",
+    "ne:diss_me":"5176",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"MQ300",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Midway Islands",
+    "ne:gn_a1_code":"UM.300",
+    "ne:gn_id":"5854943",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Midway Islands",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"MQI",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"UM-71",
+    "ne:iso_a2":"UM",
+    "ne:labelrank":"20",
+    "ne:latitude":"28.20600000000",
+    "ne:longitude":"-177.37600000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":1,
+    "ne:name":"Midway Islands",
+    "ne:name_alt":"",
+    "ne:name_len":14,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"11",
+    "ne:sov_a3":"US1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":23424895,
+    "ne:woe_label":"",
+    "ne:woe_name":"Midway Islands",
+    "qs:a0":"United States Minor Outlying Islands",
+    "qs:a0_lc":"UM",
+    "qs:a1":"Midway Islands",
+    "qs:a1_lc":"UMI-5176",
+    "qs:adm0":"United States Minor Outlying Islands",
+    "qs:adm0_a3":"UMI",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-01-01",
+    "statoids:area_km":"6",
+    "statoids:area_mi":"2",
+    "statoids:as_of_date":"2010-01-01",
+    "statoids:capital":"",
+    "statoids:country":"UM",
+    "statoids:gec":"MQ",
+    "statoids:hasc":"UM.MQ",
+    "statoids:iso":"71",
+    "statoids:name":"Midway Islands",
+    "statoids:population":"40",
+    "statoids:timezone":"-11",
+    "statoids:type":"unincorporated territory",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632333,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"MQ",
+        "gn:id":5854943,
+        "gp:id":23424895,
+        "hasc:id":"UM.MQ",
+        "iso:id":"UM-71",
+        "marc:id":"xf",
+        "qs:id":1192872
+    },
+    "wof:country":"UM",
+    "wof:geomhash":"bb847870ca35bf5d8287b18c02896230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632333,
+            "empire_id":136253057,
+            "region_id":85680273
+        }
+    ],
+    "wof:id":85680273,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550563,
+    "wof:name":"Midway Islands",
+    "wof:parent_id":85632333,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"unincorporated territory",
+    "wof:population":40,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-um",
+    "wof:shortcode":"MQ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -177.38959713420036,
+    28.19765859656701,
+    -177.32115637926347,
+    28.2153181015492
+],
+  "geometry": {"coordinates":[[[[-177.32489986933348,28.20498281560452],[-177.33527584510415,28.20429108316699],[-177.32892818908462,28.21108632997021],[-177.32286536364558,28.20766836120595],[-177.32115637926347,28.20587799717191],[-177.32489986933348,28.20498281560452]]],[[[-177.3807266918833,28.19891998926613],[-177.38959713420036,28.19765859656701],[-177.38524329314345,28.20697663056711],[-177.37800045465724,28.21283600507763],[-177.3686417308312,28.2153181015492],[-177.35765540317428,28.21442291908249],[-177.3644506499775,28.20758698155402],[-177.37218176997268,28.2023379580304],[-177.3807266918833,28.19891998926613]]]],"type":"MultiPolygon"}
+}

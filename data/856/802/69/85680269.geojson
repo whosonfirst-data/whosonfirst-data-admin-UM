@@ -1,0 +1,372 @@
+{
+  "id": 85680269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000222,
+    "geom:area_square_m":2725170.482918,
+    "geom:bbox":"-162.400176562,6.43024323084,-162.385283983,6.44513580967",
+    "geom:latitude":6.43769,
+    "geom:longitude":-162.39273,
+    "gn:elevation":-3,
+    "iso:country":"UM",
+    "label:eng_x_preferred_longname":[
+        "Kingman Reef Unincorporated Territory"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "unincorporated territory"
+    ],
+    "lbl:latitude":6.437689,
+    "lbl:longitude":-162.39273,
+    "mps:latitude":6.437689,
+    "mps:longitude":-162.39273,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Kingman-rif"
+    ],
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u0628 \u0643\u064a\u0646\u063a\u0645\u0627\u0646 \u0627\u0644\u0645\u0631\u062c\u0627\u0646\u064a\u0629"
+    ],
+    "name:aze_x_preferred":[
+        "Kinqmen rifi"
+    ],
+    "name:bar_x_preferred":[
+        "Kingman Riff"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u044b\u0444 \u041a\u0456\u043d\u0433\u043c\u044d\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u041a\u0456\u043d\u0433\u043c\u0430\u043d"
+    ],
+    "name:bos_x_preferred":[
+        "Greben Kingman"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0438\u043d\u0433\u043c\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Escull Kingman"
+    ],
+    "name:ces_x_preferred":[
+        "Kingman\u016fv \u00fates"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u0438\u0444 \u041a\u0438\u043d\u0433\u043c\u0435\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Kingman Reef"
+    ],
+    "name:deu_x_preferred":[
+        "Kingmanriff"
+    ],
+    "name:ell_x_preferred":[
+        "\u038e\u03c6\u03b1\u03bb\u03bf\u03c2 \u039a\u03af\u03bd\u03b3\u03ba\u03bc\u03b1\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Kingman Reef"
+    ],
+    "name:epo_x_preferred":[
+        "Kingmanrifo"
+    ],
+    "name:est_x_preferred":[
+        "Kingmani riff"
+    ],
+    "name:eus_x_preferred":[
+        "Kingman uharria"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u200c\u0633\u0646\u06af \u06a9\u06cc\u0646\u06af\u0645\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Kingmanin riutta"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e9cif Kingman"
+    ],
+    "name:glg_x_preferred":[
+        "Arrecife Kingman"
+    ],
+    "name:hbs_x_preferred":[
+        "Greben Kingman"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d5\u05e0\u05d9\u05ea \u05e7\u05d9\u05e0\u05d2\u05de\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Greben Kingman"
+    ],
+    "name:hun_x_preferred":[
+        "Kingman-z\u00e1tony"
+    ],
+    "name:hye_x_preferred":[
+        "\u0554\u056b\u0576\u0563\u0574\u0565\u0576 \u056d\u0578\u0582\u0569"
+    ],
+    "name:ido_x_preferred":[
+        "Kingman Rifo"
+    ],
+    "name:ind_x_preferred":[
+        "Karang Kingman"
+    ],
+    "name:isl_x_preferred":[
+        "Kingmanrif"
+    ],
+    "name:ita_x_preferred":[
+        "Kingman Reef"
+    ],
+    "name:jav_x_preferred":[
+        "Karang Kingman"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30f3\u30b0\u30de\u30f3\u30fb\u30ea\u30fc\u30d5"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10dc\u10d2\u10db\u10d4\u10dc\u10d8\u10e1 \u10e0\u10d8\u10e4\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041a\u0438\u043d\u0433\u043c\u0435\u043d \u0440\u0438\u0444\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0b9\uba3c \uc554\ucd08"
+    ],
+    "name:lav_x_preferred":[
+        "Kingmena rifs"
+    ],
+    "name:lij_x_preferred":[
+        "Kingman Reef"
+    ],
+    "name:lim_x_preferred":[
+        "Kingmanrif"
+    ],
+    "name:lit_x_preferred":[
+        "Kingmano rifas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d3f\u0d19\u0d4d\u0d19\u0d4d\u0d2e\u0d3e\u0d7b \u0d31\u0d40\u0d2b\u0d4d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0438\u043d\u0433\u043c\u0435\u043d\u043e\u0432 \u0413\u0440\u0435\u0431\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Terumbu Kingman"
+    ],
+    "name:nld_x_preferred":[
+        "Kingman"
+    ],
+    "name:nor_x_preferred":[
+        "Kingman Reef"
+    ],
+    "name:pol_x_preferred":[
+        "Kingman"
+    ],
+    "name:por_x_preferred":[
+        "Recife Kingman"
+    ],
+    "name:ron_x_preferred":[
+        "Reciful Kingman"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u0444 \u041a\u0438\u043d\u0433\u043c\u0435\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Kingman Reef"
+    ],
+    "name:sco_x_preferred":[
+        "Kingman Reef"
+    ],
+    "name:slk_x_preferred":[
+        "Kingmanov \u00fates"
+    ],
+    "name:slv_x_preferred":[
+        "Kingmanov greben"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Kingman",
+        "Arrecife Kingman"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u043d\u0433\u043c\u0435\u043d"
+    ],
+    "name:sun_x_preferred":[
+        "Karang Kingman"
+    ],
+    "name:swe_x_preferred":[
+        "Kingmanrevet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0b99\u0bcd\u0bae\u0ba9\u0bcd \u0baa\u0bbe\u0bb1\u0bc8"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e34\u0e07\u0e41\u0e21\u0e19\u0e23\u0e35\u0e1f"
+    ],
+    "name:tur_x_preferred":[
+        "Kingman Resifi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0456\u043d\u0433\u043c\u0435\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0646\u06af\u0645\u06cc\u0646 \u0631\u06cc\u0641"
+    ],
+    "name:vie_x_preferred":[
+        "Kingman"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Kingman-chiau"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u66fc\u7901"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u91d1\u66fc\u7901"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"UMI",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"8",
+    "ne:adm1_cod_1":"UMI-5175",
+    "ne:adm1_code":"UMI-5175",
+    "ne:admin":"United States Minor Outlying Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"UM.KQ",
+    "ne:code_local":"",
+    "ne:datarank":"11",
+    "ne:diss_me":"5175",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"KQ250",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"",
+    "ne:gn_a1_code":"UM.250",
+    "ne:gn_id":"5854936",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Kingman Reef",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"KQI",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"UM-89",
+    "ne:iso_a2":"UM",
+    "ne:labelrank":"20",
+    "ne:latitude":"6.43770000000",
+    "ne:longitude":"-162.39300000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":1,
+    "ne:name":"Kingman Reef",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"11",
+    "ne:sov_a3":"US1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":23424866,
+    "ne:woe_label":"",
+    "ne:woe_name":"Kingman Reef",
+    "qs:a0":"United States Minor Outlying Islands",
+    "qs:a0_lc":"UM",
+    "qs:a1":"Kingman Reef",
+    "qs:a1_lc":"UMI-5175",
+    "qs:adm0":"United States Minor Outlying Islands",
+    "qs:adm0_a3":"UMI",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-01-01",
+    "statoids:area_km":"1",
+    "statoids:area_mi":"0",
+    "statoids:as_of_date":"2010-01-01",
+    "statoids:capital":"",
+    "statoids:country":"UM",
+    "statoids:gec":"KQ",
+    "statoids:hasc":"UM.KQ",
+    "statoids:iso":"89",
+    "statoids:name":"Kingman Reef",
+    "statoids:population":"0",
+    "statoids:timezone":"-11",
+    "statoids:type":"unincorporated territory",
+    "unlc:subdivision":"UM-89",
+    "wd:wordcount":1654,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632333,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"KQ",
+        "gn:id":5854936,
+        "gp:id":23424866,
+        "hasc:id":"UM.KQ",
+        "iso:id":"UM-89",
+        "qs:id":58920,
+        "unlc:id":"UM-89",
+        "wd:id":"Q130895"
+    },
+    "wof:country":"UM",
+    "wof:geomhash":"e494705fdd54e8bdf099df4d44e56c3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632333,
+            "empire_id":136253057,
+            "region_id":85680269
+        }
+    ],
+    "wof:id":85680269,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550562,
+    "wof:name":"Kingman Reef",
+    "wof:parent_id":85632333,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"unincorporated territory",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-um",
+    "wof:shortcode":"KQ",
+    "wof:subdivision":"UM-89",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -162.40017656209864,
+    6.43024323084046,
+    -162.38528398326918,
+    6.44513580966992
+],
+  "geometry": {"coordinates":[[[-162.40017656209864,6.44513580966992],[-162.38528398326918,6.44513580966992],[-162.38528398326918,6.43024323084046],[-162.40017656209864,6.43024323084046],[-162.40017656209864,6.44513580966992]]],"type":"Polygon"}
+}

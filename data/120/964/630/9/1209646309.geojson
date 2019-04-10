@@ -1,0 +1,61 @@
+{
+  "id": 1209646309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.6185,0.80776,-176.6185,0.80776",
+    "geom:latitude":0.80776,
+    "geom:longitude":-176.6185,
+    "gn:admin1_code":"100",
+    "gn:asciiname":"Itascatown pre-WW2",
+    "gn:country_code":"UM",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5854924,
+    "gn:latitude":0.80776,
+    "gn:longitude":-176.6185,
+    "gn:modification_date":"2010-10-11",
+    "gn:name":"Itascatown pre-WW2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Midway",
+    "iso:country":"UM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5854924
+    },
+    "wof:country":"UM",
+    "wof:geomhash":"4e896602b0e896a9503c8e1b9e101282",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632333,
+            "locality_id":1209646309
+        }
+    ],
+    "wof:id":1209646309,
+    "wof:lastmodified":1536280724,
+    "wof:name":"Itascatown pre-WW2",
+    "wof:parent_id":85632333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-um",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.6185,
+    0.80776,
+    -176.6185,
+    0.80776
+],
+  "geometry": {"coordinates":[-176.61850000000001,0.80776],"type":"Point"}
+}

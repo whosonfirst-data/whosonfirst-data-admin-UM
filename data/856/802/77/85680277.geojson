@@ -1,0 +1,439 @@
+{
+  "id": 85680277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000413,
+    "geom:area_square_m":4845107.47601,
+    "geom:bbox":"-75.0308324858,18.3950056008,-75.002634244,18.4172630885",
+    "geom:latitude":18.40705,
+    "geom:longitude":-75.014658,
+    "iso:country":"UM",
+    "label:eng_x_preferred_longname":[
+        "Navassa Island Unincorporated Territory"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "unincorporated territory"
+    ],
+    "lbl:latitude":18.40587,
+    "lbl:longitude":-75.012107,
+    "mps:latitude":18.40587,
+    "mps:longitude":-75.012107,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Navassa"
+    ],
+    "name:als_x_preferred":[
+        "Navassa"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0646\u0627\u0641\u0627\u0633\u0627"
+    ],
+    "name:aze_x_preferred":[
+        "Navassa adas\u0131"
+    ],
+    "name:bar_x_preferred":[
+        "Navassa"
+    ],
+    "name:bel_x_preferred":[
+        "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u041d\u0430\u0432\u0430\u0441\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u0430\u0432\u0430\u0441\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Navassa"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0441\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Illa Navassa"
+    ],
+    "name:ces_x_preferred":[
+        "Navassa"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0441\u0441\u0430"
+    ],
+    "name:cor_x_preferred":[
+        "Ynys Navassa"
+    ],
+    "name:dan_x_preferred":[
+        "Navassa"
+    ],
+    "name:deu_x_preferred":[
+        "Navassa"
+    ],
+    "name:deu_x_variant":[
+        "Navassainsel"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ae\u03c3\u03bf\u03c2 \u039d\u03b1\u03b2\u03ac\u03c3\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Navassa Island"
+    ],
+    "name:epo_x_preferred":[
+        "Navasa Insulo"
+    ],
+    "name:est_x_preferred":[
+        "Navassa saar"
+    ],
+    "name:eus_x_preferred":[
+        "Navassa uhartea"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0646\u0627\u0648\u0627\u0633\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Navassa"
+    ],
+    "name:fra_x_colloquial":[
+        "Ile Navassa"
+    ],
+    "name:fra_x_preferred":[
+        "\u00cele de la Navasse"
+    ],
+    "name:fra_x_variant":[
+        "\u00cele Navassa",
+        "Navassa",
+        "\u00cele de Navassa"
+    ],
+    "name:frr_x_preferred":[
+        "Navassa"
+    ],
+    "name:gag_x_preferred":[
+        "Navassa"
+    ],
+    "name:glg_x_preferred":[
+        "Illa de Navassa"
+    ],
+    "name:hbs_x_preferred":[
+        "Navassa"
+    ],
+    "name:hbs_x_variant":[
+        "Otok Navassa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d1\u05d0\u05e1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0935\u093e\u0938\u093e \u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:hrv_x_preferred":[
+        "Navassa"
+    ],
+    "name:hrv_x_variant":[
+        "Otok Navassa"
+    ],
+    "name:hun_x_preferred":[
+        "Navassa-sziget"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u057e\u0561\u057d\u0561 \u056f\u0572\u0566\u056b"
+    ],
+    "name:ido_x_preferred":[
+        "Navassa"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Navassa"
+    ],
+    "name:isl_x_preferred":[
+        "Navassaeyja"
+    ],
+    "name:ita_x_preferred":[
+        "Isola Navassa"
+    ],
+    "name:jav_x_preferred":[
+        "Pulo Navassa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30f4\u30a1\u30c3\u30b5\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d0\u10d5\u10d0\u10e1\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0441\u0441\u0430 \u0430\u0440\u0430\u043b\u044b"
+    ],
+    "name:kir_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0441\u0441\u0430 \u0430\u0440\u0430\u043b\u044b"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\ubc30\uc0ac \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\ub098\ubc14\uc0ac \uc12c"
+    ],
+    "name:lav_x_preferred":[
+        "Navasa"
+    ],
+    "name:lim_x_preferred":[
+        "Navassa"
+    ],
+    "name:lit_x_preferred":[
+        "Navasa"
+    ],
+    "name:ltz_x_preferred":[
+        "Navassa"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d35\u0d3e\u0d38\u0d4d\u0d38 \u0d26\u0d4d\u0d35\u0d40\u0d2a\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u0935\u094d\u0939\u093e\u0938\u093e \u0926\u094d\u0935\u0940\u092a"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0441\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Pulau Navassa"
+    ],
+    "name:nds_x_preferred":[
+        "Navassainsel"
+    ],
+    "name:nld_x_preferred":[
+        "Navassa"
+    ],
+    "name:nor_x_preferred":[
+        "Navassa\u00f8ya"
+    ],
+    "name:nor_x_variant":[
+        "Navassa-\u00f8ya"
+    ],
+    "name:nov_x_preferred":[
+        "Navasa Isle"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a28\u0a35\u0a3e\u0a38 \u0a1f\u0a3e\u0a2a\u0a42"
+    ],
+    "name:pol_x_preferred":[
+        "Navassa"
+    ],
+    "name:por_x_preferred":[
+        "Ilha de Navassa"
+    ],
+    "name:por_x_variant":[
+        "Navassa"
+    ],
+    "name:ron_x_preferred":[
+        "Insula Navassa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0441\u0441\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432 \u041d\u0430\u0432\u0430\u0441\u0441\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "\u00ccsula Navassa"
+    ],
+    "name:sco_x_preferred":[
+        "Navassa Island"
+    ],
+    "name:slk_x_preferred":[
+        "Ostrov Navassa"
+    ],
+    "name:slk_x_variant":[
+        "Navassa"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Navassa",
+        "Isla de Navaza"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0441\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "Pulo Navassa"
+    ],
+    "name:swa_x_preferred":[
+        "Navassa"
+    ],
+    "name:swe_x_preferred":[
+        "Navassa\u00f6n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bb5\u0bbe\u0b9a\u0bbe \u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e19\u0e32\u0e41\u0e27\u0e2a\u0e0b\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Navassa Adas\u0131"
+    ],
+    "name:uig_x_preferred":[
+        "\u0646\u0627\u06cb\u0627\u0633\u0633\u0627 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0432\u0430\u0441\u0441\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0627\u0648\u0627\u0633\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Navassa"
+    ],
+    "name:yor_x_preferred":[
+        "Er\u00e9k\u00f9\u1e63\u00f9 Navassa"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Navassa-t\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5f17\u6c99\u5cf6"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u7d0d\u5f17\u6c99\u5cf6"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"UMI",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"8",
+    "ne:adm1_cod_1":"UMI-5177",
+    "ne:adm1_code":"UMI-5177",
+    "ne:admin":"United States Minor Outlying Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"UM.BQ",
+    "ne:code_local":"",
+    "ne:datarank":"11",
+    "ne:diss_me":"5177",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BQ350",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Navassa Island",
+    "ne:gn_a1_code":"UM.350",
+    "ne:gn_id":"4743755",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Navassa Island",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BQI",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"UM-76",
+    "ne:iso_a2":"UM",
+    "ne:labelrank":"20",
+    "ne:latitude":"18.40430000000",
+    "ne:longitude":"-75.01100000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":1,
+    "ne:name":"Navassa Island",
+    "ne:name_alt":"",
+    "ne:name_len":14,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"11",
+    "ne:sov_a3":"US1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":23424767,
+    "ne:woe_label":"",
+    "ne:woe_name":"Navassa Island",
+    "qs:a0":"United States Minor Outlying Islands",
+    "qs:a0_lc":"UM",
+    "qs:a1":"Navassa Island",
+    "qs:a1_lc":"UMI-5177",
+    "qs:adm0":"United States Minor Outlying Islands",
+    "qs:adm0_a3":"UMI",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-01-01",
+    "statoids:area_km":"5",
+    "statoids:area_mi":"2",
+    "statoids:as_of_date":"2010-01-01",
+    "statoids:capital":"",
+    "statoids:country":"UM",
+    "statoids:gec":"BQ",
+    "statoids:hasc":"UM.BQ",
+    "statoids:iso":"76",
+    "statoids:name":"Navassa Island",
+    "statoids:population":"0",
+    "statoids:timezone":"-5",
+    "statoids:type":"unincorporated territory",
+    "wd:wordcount":2168,
+    "wof:belongsto":[
+        102191575,
+        85632333,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "dbp:id":"Navassa_Island",
+        "fb:id":"en.navassa_island",
+        "fips:code":"BQ",
+        "gn:id":4743755,
+        "gp:id":23424767,
+        "hasc:id":"UM.BQ",
+        "iso:id":"UM-76",
+        "nyt:id":"N40702730997715475571",
+        "qs:id":58915,
+        "wd:id":"Q25359",
+        "wk:page":"Navassa Island"
+    },
+    "wof:country":"UM",
+    "wof:geomhash":"9bab12eb200f28268330344aa8fbc84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632333,
+            "empire_id":136253057,
+            "region_id":85680277
+        }
+    ],
+    "wof:id":85680277,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550563,
+    "wof:name":"Navassa Island",
+    "wof:parent_id":85632333,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"unincorporated territory",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-um",
+    "wof:shortcode":"BQ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.0308324858305,
+    18.39500560082786,
+    -75.00263424397514,
+    18.41726308852077
+],
+  "geometry": {"coordinates":[[[-75.02432206870844,18.41726308852077],[-75.02106686104673,18.41563548468991],[-75.01073157510206,18.41563548468991],[-75.01024329269376,18.41514720318094],[-75.00698808503205,18.41514720318094],[-75.00373287647102,18.41079336122471],[-75.00263424397514,18.41022370006374],[-75.00263424397514,18.40643952016779],[-75.00263424397514,18.40477122651095],[-75.00316321531011,18.40371328294168],[-75.00316321531011,18.39773183805391],[-75.00531979047594,18.39610423422306],[-75.00698808503205,18.39610423422306],[-75.00804602770199,18.39500560082786],[-75.01073157510206,18.39500560082786],[-75.01183020669862,18.39610423422306],[-75.01508541615897,18.39610423422306],[-75.01618404865491,18.39667389538403],[-75.01781165248576,18.39667389538403],[-75.01891028588096,18.39773183805391],[-75.01891028588096,18.39883047144917],[-75.02049719988582,18.40041738545403],[-75.02049719988582,18.40261465134512],[-75.02375240754753,18.40643952016779],[-75.02375240754753,18.40696849240203],[-75.02594967433794,18.40802643417265],[-75.0308324858305,18.41347890862477],[-75.03026282466959,18.41726308852077],[-75.02432206870844,18.41726308852077]]],"type":"Polygon"}
+}

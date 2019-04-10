@@ -1,0 +1,62 @@
+{
+  "id": 1259916017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-176.48407,0.19404,-176.48407,0.19404",
+    "geom:latitude":0.19404,
+    "geom:longitude":-176.48407,
+    "gn:admin1_code":"050",
+    "gn:asciiname":"Meyerton pre-WW2",
+    "gn:country_code":"UM",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":5854939,
+    "gn:latitude":0.19404,
+    "gn:longitude":-176.48407,
+    "gn:modification_date":"2010-10-11",
+    "gn:name":"Meyerton pre-WW2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Midway",
+    "iso:country":"UM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5854939,
+        "wk:page":"Meyerton%2C_Baker_Island"
+    },
+    "wof:country":"UM",
+    "wof:geomhash":"e7a42c430d80d287e6102579455d3186",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259916017,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259916017,
+    "wof:lastmodified":1537575067,
+    "wof:name":"Meyerton pre-WW2",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-um",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -176.48407,
+    0.19404,
+    -176.48407,
+    0.19404
+],
+  "geometry": {"coordinates":[-176.48407,0.19404],"type":"Point"}
+}

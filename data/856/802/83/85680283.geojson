@@ -1,0 +1,388 @@
+{
+  "id": 85680283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000576,
+    "geom:area_square_m":7082704.45478,
+    "geom:bbox":"-162.103627082,5.8693708349,-162.057606574,5.89024485951",
+    "geom:latitude":5.880757,
+    "geom:longitude":-162.076546,
+    "gn:population":10,
+    "iso:country":"UM",
+    "label:eng_x_preferred_longname":[
+        "Palmyra Atoll Incorporated Territory"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "incorporated territory"
+    ],
+    "lbl:latitude":5.877187,
+    "lbl:longitude":-162.073806,
+    "mps:latitude":5.877187,
+    "mps:longitude":-162.073806,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Palmyra-atol"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0628\u0627\u0644\u0645\u064a\u0631\u0627 \u0627\u0644\u0645\u0631\u062c\u0627\u0646\u064a\u0629"
+    ],
+    "name:aze_x_preferred":[
+        "Palmira rifi"
+    ],
+    "name:bar_x_preferred":[
+        "Palmyra"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u041f\u0430\u043b\u044c\u043c\u0456\u0440\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0430\u043b\u044c\u043c\u0456\u0440\u0430"
+    ],
+    "name:bos_x_preferred":[
+        "Atol Palmyra"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0438\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Atol Palmyra"
+    ],
+    "name:ces_x_preferred":[
+        "Palmyra"
+    ],
+    "name:che_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430"
+    ],
+    "name:cor_x_preferred":[
+        "Enesik Palmyra"
+    ],
+    "name:deu_x_preferred":[
+        "Palmyra"
+    ],
+    "name:deu_x_variant":[
+        "Palmyrainseln"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03cc\u03bb\u03bb\u03b7 \u03a0\u03b1\u03bb\u03bc\u03cd\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Palmyra Atoll"
+    ],
+    "name:epo_x_preferred":[
+        "Palmiro"
+    ],
+    "name:est_x_preferred":[
+        "Palmyra atoll"
+    ],
+    "name:eus_x_preferred":[
+        "Palmyra atoloia"
+    ],
+    "name:fao_x_preferred":[
+        "Palmyra Atoll"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u0647 \u0645\u0631\u062c\u0627\u0646\u06cc \u067e\u0627\u0644\u0645\u06cc\u0631\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Palmyran atolli"
+    ],
+    "name:fra_x_colloquial":[
+        "Ile Palmyra"
+    ],
+    "name:fra_x_preferred":[
+        "Atoll Palmyra"
+    ],
+    "name:fra_x_variant":[
+        "\u00cele Palmyra"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Palmyra"
+    ],
+    "name:hbs_x_preferred":[
+        "Atol Palmyra"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d8\u05d5\u05dc \u05e4\u05d0\u05dc\u05de\u05d9\u05e8\u05d4"
+    ],
+    "name:hrv_x_preferred":[
+        "Atol Palmyra"
+    ],
+    "name:hun_x_preferred":[
+        "Palmyra-atoll"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u056c\u0574\u056b\u0580\u0561"
+    ],
+    "name:ido_x_preferred":[
+        "Atolo Palmyra"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Palmyra"
+    ],
+    "name:isl_x_preferred":[
+        "Palmyraeyja"
+    ],
+    "name:ita_x_preferred":[
+        "Palmyra"
+    ],
+    "name:jav_x_preferred":[
+        "Atol Palmyra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30eb\u30df\u30e9\u74b0\u7901"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10da\u10db\u10d8\u10e0\u10d0"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430 \u0430\u0442\u043e\u043b\u043b\u0443"
+    ],
+    "name:kor_x_preferred":[
+        "\ud314\ubbf8\ub77c \ud658\ucd08"
+    ],
+    "name:lav_x_preferred":[
+        "Palmiras atols"
+    ],
+    "name:lij_x_preferred":[
+        "Atollo Palmyra"
+    ],
+    "name:lim_x_preferred":[
+        "Palmyra-atol"
+    ],
+    "name:lit_x_preferred":[
+        "Palmyros atolas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0438\u0440\u0441\u043a\u0438 \u0410\u0442\u043e\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Atol Palmyra"
+    ],
+    "name:nld_x_preferred":[
+        "Palmyra"
+    ],
+    "name:nno_x_preferred":[
+        "Palmyra-atollen"
+    ],
+    "name:nor_x_preferred":[
+        "Palmyra Atoll"
+    ],
+    "name:pol_x_preferred":[
+        "Palmyra"
+    ],
+    "name:por_x_preferred":[
+        "Atol Palmyra"
+    ],
+    "name:ron_x_preferred":[
+        "Atolul Palmyra"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u043c\u0438\u0440\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Atollu di Palmyra"
+    ],
+    "name:sco_x_preferred":[
+        "Palmyra Atoll"
+    ],
+    "name:slk_x_preferred":[
+        "Atol Palmyra"
+    ],
+    "name:spa_x_preferred":[
+        "Isla Palmyra",
+        "Atol\u00f3n Palmyra"
+    ],
+    "name:srd_x_preferred":[
+        "Atollu Palmyra"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0430\u043b\u043c\u0438\u0440\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "Atol Palmyra"
+    ],
+    "name:swe_x_preferred":[
+        "Palmyraatollen"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0bb2\u0bcd\u0bae\u0bc8\u0bb0\u0bbe \u0baa\u0bb5\u0bb3\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e1e\u0e25\u0e44\u0e21\u0e23\u0e32\u0e2d\u0e30\u0e17\u0e2d\u0e25\u0e25\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Palmyra Atol\u00fc"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u043c\u0456\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u067e\u0627\u0644\u0645\u06cc\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Palmyra"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10de\u10d0\u10da\u10db\u10d8\u10e0\u10d0\u10e8 \u10d0\u10e2\u10dd\u10da\u10d8"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Palmyra Kho\u00e2n-chiau"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u9081\u62c9\u74b0\u7901"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u5e15\u9081\u62c9\u74b0\u7901"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"UMI",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"8",
+    "ne:adm1_cod_1":"UMI-5178",
+    "ne:adm1_code":"UMI-5178",
+    "ne:admin":"United States Minor Outlying Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"UM.LQ",
+    "ne:code_local":"",
+    "ne:datarank":"11",
+    "ne:diss_me":"5178",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"LQ400",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"",
+    "ne:gn_a1_code":"UM.400",
+    "ne:gn_id":"5854952",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Palmyra Atoll",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LQI",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"UM-95",
+    "ne:iso_a2":"UM",
+    "ne:labelrank":"20",
+    "ne:latitude":"5.88359000000",
+    "ne:longitude":"-162.07600000000",
+    "ne:mapcolor13":1,
+    "ne:mapcolor9":1,
+    "ne:name":"Palmyra Atoll",
+    "ne:name_alt":"",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"11",
+    "ne:sov_a3":"US1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":23424878,
+    "ne:woe_label":"",
+    "ne:woe_name":"Palmyra Atoll",
+    "qs:a0":"United States Minor Outlying Islands",
+    "qs:a0_lc":"UM",
+    "qs:a1":"Palmyra Atoll",
+    "qs:a1_lc":"UMI-5178",
+    "qs:adm0":"United States Minor Outlying Islands",
+    "qs:adm0_a3":"UMI",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-01-01",
+    "statoids:area_km":"12",
+    "statoids:area_mi":"5",
+    "statoids:as_of_date":"2010-01-01",
+    "statoids:capital":"",
+    "statoids:country":"UM",
+    "statoids:gec":"LQ",
+    "statoids:hasc":"UM.LQ",
+    "statoids:iso":"95",
+    "statoids:name":"Palmyra Atoll",
+    "statoids:population":"0",
+    "statoids:timezone":"-11",
+    "statoids:type":"incorporated territory",
+    "unlc:subdivision":"UM-95",
+    "wd:wordcount":2939,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632333,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"LQ",
+        "gn:id":5854952,
+        "gp:id":23424878,
+        "hasc:id":"UM.LQ",
+        "iso:id":"UM-95",
+        "qs:id":234207,
+        "unlc:id":"UM-95",
+        "wd:id":"Q123076",
+        "wk:page":"Palmyra Atoll"
+    },
+    "wof:country":"UM",
+    "wof:geomhash":"5995db462af0d9dffdd78c56d5465114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632333,
+            "empire_id":136253057,
+            "region_id":85680283
+        }
+    ],
+    "wof:id":85680283,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550564,
+    "wof:name":"Palmyra Atoll",
+    "wof:parent_id":85632333,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"incorporated territory",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-um",
+    "wof:shortcode":"LQ",
+    "wof:subdivision":"UM-95",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -162.10362708152456,
+    5.86937083489619,
+    -162.0576065744838,
+    5.89024485951268
+],
+  "geometry": {"coordinates":[[[-162.06086178304483,5.88719310098088],[-162.0576065744838,5.88247304969155],[-162.06110592379932,5.87343984627193],[-162.07306881357485,5.86937083489619],[-162.09113521951474,5.87164948133852],[-162.09434973914912,5.87535228158259],[-162.09076900928233,5.8748233093483],[-162.0870662099376,5.87824127811257],[-162.07506262853744,5.88552480732403],[-162.07819576672122,5.88540273604747],[-162.08271236888069,5.88418203317434],[-162.08731035069209,5.8838565118686],[-162.0938614567408,5.8858096370052],[-162.10029049421092,5.88641998889142],[-162.10362708152456,5.88857656495657],[-162.10171464801257,5.89024485951268],[-162.07135983009206,5.89016347896143],[-162.06086178304483,5.88719310098088]]],"type":"Polygon"}
+}

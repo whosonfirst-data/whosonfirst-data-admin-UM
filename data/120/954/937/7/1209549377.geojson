@@ -1,0 +1,60 @@
+{
+  "id": 1209549377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-160.00453,-0.37027,-160.00453,-0.37027",
+    "geom:latitude":-0.37027,
+    "geom:longitude":-160.00453,
+    "gn:admin1_code":"150",
+    "gn:asciiname":"Millersville - pre-WW2 settlement",
+    "gn:country_code":"UM",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":5854945,
+    "gn:latitude":-0.37027,
+    "gn:longitude":-160.00453,
+    "gn:modification_date":"2010-10-17",
+    "gn:name":"Millersville - pre-WW2 settlement",
+    "gn:population":0,
+    "iso:country":"UM",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5854945
+    },
+    "wof:country":"UM",
+    "wof:geomhash":"e12a9397811d947b4f62d9675a77b97d",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632333,
+            "locality_id":1209549377
+        }
+    ],
+    "wof:id":1209549377,
+    "wof:lastmodified":1536283742,
+    "wof:name":"Millersville - pre-WW2 settlement",
+    "wof:parent_id":85632333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-um",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -160.00453000000005,
+    -0.37027,
+    -160.00453000000005,
+    -0.37027
+],
+  "geometry": {"coordinates":[-160.00453000000005,-0.37027],"type":"Point"}
+}
