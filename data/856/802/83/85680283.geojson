@@ -43,6 +43,9 @@
     "name:bel_x_variant":[
         "\u041f\u0430\u043b\u044c\u043c\u0456\u0440\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09b2\u09be\u0987\u09b0\u09be \u098f\u099f\u09b2"
+    ],
     "name:bos_x_preferred":[
         "Atol Palmyra"
     ],
@@ -52,6 +55,12 @@
     "name:cat_x_preferred":[
         "Atol Palmyra"
     ],
+    "name:cat_x_variant":[
+        "atol Palmyra"
+    ],
+    "name:ceb_x_preferred":[
+        "Palmyra Atoll"
+    ],
     "name:ces_x_preferred":[
         "Palmyra"
     ],
@@ -60,6 +69,9 @@
     ],
     "name:cor_x_preferred":[
         "Enesik Palmyra"
+    ],
+    "name:dan_x_preferred":[
+        "Palmyra Atoll"
     ],
     "name:deu_x_preferred":[
         "Palmyra"
@@ -82,6 +94,9 @@
     "name:eus_x_preferred":[
         "Palmyra atoloia"
     ],
+    "name:eus_x_variant":[
+        "Palmyra Atoloia"
+    ],
     "name:fao_x_preferred":[
         "Palmyra Atoll"
     ],
@@ -98,16 +113,23 @@
         "Atoll Palmyra"
     ],
     "name:fra_x_variant":[
-        "\u00cele Palmyra"
+        "\u00cele Palmyra",
+        "atoll Palmyra"
     ],
     "name:glg_x_preferred":[
         "Atol Palmyra"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0abe\u0ab2\u0acd\u0aae\u0ac0\u0ab0\u0abe \u0a8f\u0a9f\u0acb\u0ab2"
     ],
     "name:hbs_x_preferred":[
         "Atol Palmyra"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d8\u05d5\u05dc \u05e4\u05d0\u05dc\u05de\u05d9\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u0932\u094d\u092e\u0940\u0930\u093e \u090f\u091f\u094b\u0932"
     ],
     "name:hrv_x_preferred":[
         "Atol Palmyra"
@@ -120,6 +142,9 @@
     ],
     "name:ido_x_preferred":[
         "Atolo Palmyra"
+    ],
+    "name:ido_x_variant":[
+        "Palmyra Atolo"
     ],
     "name:ind_x_preferred":[
         "Atol Palmyra"
@@ -135,6 +160,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30eb\u30df\u30e9\u74b0\u7901"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cbe\u0cb2\u0ccd\u0cae\u0cbf\u0cb0\u0cbe \u0c85\u0c9f\u0cbe\u0cb2\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10de\u10d0\u10da\u10db\u10d8\u10e0\u10d0"
@@ -157,17 +185,26 @@
     "name:lit_x_preferred":[
         "Palmyros atolas"
     ],
+    "name:mar_x_preferred":[
+        "\u092a\u093e\u0932\u094d\u092e\u0940\u0930\u093e \u090f\u091f\u094b\u0932"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0430\u043b\u043c\u0438\u0440\u0441\u043a\u0438 \u0410\u0442\u043e\u043b"
     ],
     "name:msa_x_preferred":[
         "Atol Palmyra"
     ],
+    "name:nan_x_preferred":[
+        "Palmyra Kho\u00e2n-chiau"
+    ],
     "name:nld_x_preferred":[
         "Palmyra"
     ],
     "name:nno_x_preferred":[
         "Palmyra-atollen"
+    ],
+    "name:nob_x_preferred":[
+        "Palmyra Atoll"
     ],
     "name:nor_x_preferred":[
         "Palmyra Atoll"
@@ -190,8 +227,14 @@
     "name:sco_x_preferred":[
         "Palmyra Atoll"
     ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd0\u0dbd\u0dca\u0db8\u0dba\u0dd2\u0dbb\u0dcf \u0daf\u0dd4\u0db4\u0dad\u0dca \u0dc3\u0db8\u0dd4\u0dc4\u0dba"
+    ],
     "name:slk_x_preferred":[
         "Atol Palmyra"
+    ],
+    "name:slk_x_variant":[
+        "Palmyra"
     ],
     "name:spa_x_preferred":[
         "Isla Palmyra",
@@ -199,6 +242,9 @@
     ],
     "name:srd_x_preferred":[
         "Atollu Palmyra"
+    ],
+    "name:srd_x_variant":[
+        "atollu Palmyra"
     ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u043b\u043c\u0438\u0440\u0430"
@@ -211,6 +257,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0bb2\u0bcd\u0bae\u0bc8\u0bb0\u0bbe \u0baa\u0bb5\u0bb3\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c3e\u0c32\u0c4d\u0c2e\u0c2f\u0c3f\u0c30\u0c3e \u0c05\u0c1f\u0c4b\u0c32\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e41\u0e1e\u0e25\u0e44\u0e21\u0e23\u0e32\u0e2d\u0e30\u0e17\u0e2d\u0e25\u0e25\u0e4c"
@@ -227,8 +276,14 @@
     "name:vie_x_preferred":[
         "Palmyra"
     ],
+    "name:vie_x_variant":[
+        "\u0110\u1ea3o san h\u00f4 Palmyra"
+    ],
     "name:xmf_x_preferred":[
         "\u10de\u10d0\u10da\u10db\u10d8\u10e0\u10d0\u10e8 \u10d0\u10e2\u10dd\u10da\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e15\u9081\u62c9\u74b0\u7901"
     ],
     "name:zho_min_nan_x_preferred":[
         "Palmyra Kho\u00e2n-chiau"
@@ -364,7 +419,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550564,
+    "wof:lastmodified":1563321873,
     "wof:name":"Palmyra Atoll",
     "wof:parent_id":85632333,
     "wof:placetype":"region",
