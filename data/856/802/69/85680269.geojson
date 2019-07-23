@@ -43,6 +43,9 @@
     "name:bel_x_variant":[
         "\u041a\u0456\u043d\u0433\u043c\u0430\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u0982\u09ae\u09cd\u09af\u09be\u09a8 \u09b0\u09bf\u09ab"
+    ],
     "name:bos_x_preferred":[
         "Greben Kingman"
     ],
@@ -51,6 +54,12 @@
     ],
     "name:cat_x_preferred":[
         "Escull Kingman"
+    ],
+    "name:cat_x_variant":[
+        "escull Kingman"
+    ],
+    "name:ceb_x_preferred":[
+        "Kingman Reef"
     ],
     "name:ces_x_preferred":[
         "Kingman\u016fv \u00fates"
@@ -79,6 +88,9 @@
     "name:eus_x_preferred":[
         "Kingman uharria"
     ],
+    "name:eus_x_variant":[
+        "Kingman Uharria"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u0628\u200c\u0633\u0646\u06af \u06a9\u06cc\u0646\u06af\u0645\u0646"
     ],
@@ -91,11 +103,17 @@
     "name:glg_x_preferred":[
         "Arrecife Kingman"
     ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abf\u0a82\u0a97\u0aae\u0ac7\u0aa8 \u0ab0\u0ac0\u0aab"
+    ],
     "name:hbs_x_preferred":[
         "Greben Kingman"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05d5\u05e0\u05d9\u05ea \u05e7\u05d9\u05e0\u05d2\u05de\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0902\u0917\u092e\u0948\u0928 \u0930\u0940\u092b"
     ],
     "name:hrv_x_preferred":[
         "Greben Kingman"
@@ -124,6 +142,9 @@
     "name:jpn_x_preferred":[
         "\u30ad\u30f3\u30b0\u30de\u30f3\u30fb\u30ea\u30fc\u30d5"
     ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbf\u0c82\u0c97\u0ccd\u0cae\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0cb0\u0cc0\u0cab\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d8\u10dc\u10d2\u10db\u10d4\u10dc\u10d8\u10e1 \u10e0\u10d8\u10e4\u10d8"
     ],
@@ -148,14 +169,23 @@
     "name:mal_x_preferred":[
         "\u0d15\u0d3f\u0d19\u0d4d\u0d19\u0d4d\u0d2e\u0d3e\u0d7b \u0d31\u0d40\u0d2b\u0d4d"
     ],
+    "name:mar_x_preferred":[
+        "\u0915\u093f\u0902\u0917\u092e\u0945\u0928 \u0930\u0940\u092b"
+    ],
     "name:mkd_x_preferred":[
         "\u041a\u0438\u043d\u0433\u043c\u0435\u043d\u043e\u0432 \u0413\u0440\u0435\u0431\u0435\u043d"
     ],
     "name:msa_x_preferred":[
         "Terumbu Kingman"
     ],
+    "name:nan_x_preferred":[
+        "Kingman-chiau"
+    ],
     "name:nld_x_preferred":[
         "Kingman"
+    ],
+    "name:nob_x_preferred":[
+        "Kingman Reef"
     ],
     "name:nor_x_preferred":[
         "Kingman Reef"
@@ -178,8 +208,14 @@
     "name:sco_x_preferred":[
         "Kingman Reef"
     ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd2\u0db1\u0dca\u0d9c\u0dca\u0db8\u0db1\u0dca \u0db4\u0dbb\u0dba"
+    ],
     "name:slk_x_preferred":[
         "Kingmanov \u00fates"
+    ],
+    "name:slk_x_variant":[
+        "Kingmanreef"
     ],
     "name:slv_x_preferred":[
         "Kingmanov greben"
@@ -200,6 +236,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0b99\u0bcd\u0bae\u0ba9\u0bcd \u0baa\u0bbe\u0bb1\u0bc8"
     ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3f\u0c02\u0c17\u0c4d\u200c\u0c2e\u0c28\u0c4d \u0c30\u0c40\u0c2b\u0c4d"
+    ],
     "name:tha_x_preferred":[
         "\u0e04\u0e34\u0e07\u0e41\u0e21\u0e19\u0e23\u0e35\u0e1f"
     ],
@@ -214,6 +253,12 @@
     ],
     "name:vie_x_preferred":[
         "Kingman"
+    ],
+    "name:vie_x_variant":[
+        "\u0110\u1ea3o \u0111\u00e1 Kingman"
+    ],
+    "name:yue_x_preferred":[
+        "\u91d1\u66fc\u7901"
     ],
     "name:zho_min_nan_x_preferred":[
         "Kingman-chiau"
@@ -348,7 +393,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550562,
+    "wof:lastmodified":1563321867,
     "wof:name":"Kingman Reef",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

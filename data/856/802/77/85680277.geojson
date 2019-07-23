@@ -30,6 +30,9 @@
     "name:als_x_preferred":[
         "Navassa"
     ],
+    "name:ang_x_preferred":[
+        "Naf\u0101ssa-\u012aeg"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0646\u0627\u0641\u0627\u0633\u0627"
     ],
@@ -45,14 +48,26 @@
     "name:bel_x_variant":[
         "\u041d\u0430\u0432\u0430\u0441\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u0989\u09b8\u09be \u09a6\u09cd\u09ac\u09c0\u09aa"
+    ],
     "name:bos_x_preferred":[
         "Navassa"
+    ],
+    "name:bos_x_variant":[
+        "Ostrvo Navasa"
     ],
     "name:bul_x_preferred":[
         "\u041d\u0430\u0432\u0430\u0441\u0430"
     ],
     "name:cat_x_preferred":[
         "Illa Navassa"
+    ],
+    "name:cat_x_variant":[
+        "illa Navassa"
+    ],
+    "name:ceb_x_preferred":[
+        "Navassa Island"
     ],
     "name:ces_x_preferred":[
         "Navassa"
@@ -113,6 +128,15 @@
     "name:glg_x_preferred":[
         "Illa de Navassa"
     ],
+    "name:glg_x_variant":[
+        "Illa Navassa"
+    ],
+    "name:gsw_x_preferred":[
+        "Navassa"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0ab5\u0abe\u0ab8\u0abe \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    ],
     "name:hbs_x_preferred":[
         "Navassa"
     ],
@@ -149,11 +173,17 @@
     "name:ita_x_preferred":[
         "Isola Navassa"
     ],
+    "name:ita_x_variant":[
+        "isola Navassa"
+    ],
     "name:jav_x_preferred":[
         "Pulo Navassa"
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30f4\u30a1\u30c3\u30b5\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cb5\u0cb8\u0ccd\u0cb8\u0cbe \u0ca6\u0ccd\u0cb5\u0cc0\u0caa"
     ],
     "name:kat_x_preferred":[
         "\u10dc\u10d0\u10d5\u10d0\u10e1\u10d0"
@@ -172,6 +202,9 @@
     ],
     "name:lav_x_preferred":[
         "Navasa"
+    ],
+    "name:lfn_x_preferred":[
+        "Isola Navasa"
     ],
     "name:lim_x_preferred":[
         "Navassa"
@@ -194,11 +227,17 @@
     "name:msa_x_preferred":[
         "Pulau Navassa"
     ],
+    "name:nan_x_preferred":[
+        "Navassa-t\u00f3"
+    ],
     "name:nds_x_preferred":[
         "Navassainsel"
     ],
     "name:nld_x_preferred":[
         "Navassa"
+    ],
+    "name:nob_x_preferred":[
+        "Navassa\u00f8ya"
     ],
     "name:nor_x_preferred":[
         "Navassa\u00f8ya"
@@ -236,6 +275,9 @@
     "name:sco_x_preferred":[
         "Navassa Island"
     ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dc0\u0dc3\u0dca\u0dc3\u0dcf \u0daf\u0dd6\u0db4\u0dad"
+    ],
     "name:slk_x_preferred":[
         "Ostrov Navassa"
     ],
@@ -261,6 +303,9 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0bb5\u0bbe\u0b9a\u0bbe \u0ba4\u0bc0\u0bb5\u0bc1"
     ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3e\u0c35\u0c3e\u0c38\u0c3e \u0c26\u0c40\u0c35\u0c3f"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e32\u0e30\u0e19\u0e32\u0e41\u0e27\u0e2a\u0e0b\u0e32"
     ],
@@ -281,6 +326,9 @@
     ],
     "name:yor_x_preferred":[
         "Er\u00e9k\u00f9\u1e63\u00f9 Navassa"
+    ],
+    "name:yue_x_preferred":[
+        "\u7d0d\u5f17\u6c99\u5cf6"
     ],
     "name:zho_min_nan_x_preferred":[
         "Navassa-t\u00f3"
@@ -416,7 +464,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550563,
+    "wof:lastmodified":1563321874,
     "wof:name":"Navassa Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",
