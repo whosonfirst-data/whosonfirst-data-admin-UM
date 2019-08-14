@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "unincorporated territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MQ"
+    ],
     "lbl:latitude":28.207437,
     "lbl:longitude":-177.374953,
     "mps:latitude":28.207437,
@@ -160,16 +163,13 @@
         }
     ],
     "wof:id":85680273,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550563,
+    "wof:lastmodified":1565738623,
     "wof:name":"Midway Islands",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

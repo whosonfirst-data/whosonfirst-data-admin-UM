@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "incorporated territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LQ"
+    ],
     "lbl:latitude":5.877187,
     "lbl:longitude":-162.073806,
     "mps:latitude":5.877187,
@@ -410,16 +413,13 @@
         }
     ],
     "wof:id":85680283,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563321873,
+    "wof:lastmodified":1565738624,
     "wof:name":"Palmyra Atoll",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "unincorporated territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JQ"
+    ],
     "lbl:latitude":16.727398,
     "lbl:longitude":-169.538039,
     "mps:latitude":16.727398,
@@ -360,16 +363,13 @@
         }
     ],
     "wof:id":85680265,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563321869,
+    "wof:lastmodified":1565738624,
     "wof:name":"Johnston Atoll",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

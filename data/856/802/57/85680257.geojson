@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "unincorporated territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HQ"
+    ],
     "lbl:latitude":0.801998,
     "lbl:longitude":-176.638233,
     "mps:latitude":0.801998,
@@ -359,16 +362,13 @@
         }
     ],
     "wof:id":85680257,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563321866,
+    "wof:lastmodified":1565738622,
     "wof:name":"Howland Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

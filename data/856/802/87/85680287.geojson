@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "unincorporated territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WQ"
+    ],
     "lbl:latitude":19.285663,
     "lbl:longitude":166.644535,
     "mps:latitude":19.285663,
@@ -242,16 +245,13 @@
         }
     ],
     "wof:id":85680287,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550566,
+    "wof:lastmodified":1565738624,
     "wof:name":"Wake Atoll",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

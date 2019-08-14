@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "unincorporated territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BQ"
+    ],
     "lbl:latitude":18.40587,
     "lbl:longitude":-75.012107,
     "mps:latitude":18.40587,
@@ -455,16 +458,13 @@
         }
     ],
     "wof:id":85680277,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563321874,
+    "wof:lastmodified":1565738624,
     "wof:name":"Navassa Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

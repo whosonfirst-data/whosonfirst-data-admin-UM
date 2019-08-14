@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "unincorporated territory"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FQ"
+    ],
     "lbl:latitude":0.194349,
     "lbl:longitude":-176.47926,
     "mps:latitude":0.194349,
@@ -413,16 +416,13 @@
         }
     ],
     "wof:id":85680255,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563321870,
+    "wof:lastmodified":1565738624,
     "wof:name":"Baker Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",
