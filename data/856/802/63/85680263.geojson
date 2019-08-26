@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-0.379794,
     "lbl:longitude":-160.019917,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.379794,
     "mps:longitude":-160.019917,
     "mz:hierarchy_label":1,
@@ -264,7 +265,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0430\u0440\u0432\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bunker Island"
     ],
     "name:urd_x_preferred":[
@@ -357,9 +358,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"4",
     "statoids:area_mi":"2",
     "statoids:as_of_date":"2010-01-01",
@@ -386,7 +387,7 @@
         "gp:id":23424799,
         "hasc:id":"UM.DQ",
         "iso:id":"UM-86",
-        "qs:id":58916,
+        "qs_pg:id":58916,
         "unlc:id":"UM-86",
         "wd:id":"Q62218"
     },
@@ -408,11 +409,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565738624,
+    "wof:lastmodified":1566595814,
     "wof:name":"Jarvis Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unincorporated territory",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-um",
