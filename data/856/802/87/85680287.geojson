@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":19.285663,
     "lbl:longitude":166.644535,
+    "lbl:min_zoom":8.0,
     "mps:latitude":19.285663,
     "mps:longitude":166.644535,
     "mz:hierarchy_label":1,
@@ -127,7 +128,7 @@
     "name:tur_x_preferred":[
         "Wake Adas\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Disclerta"
     ],
     "name:zho_x_preferred":[
@@ -202,9 +203,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-01-01",
+    "src:population_date":"2010-01-01",
     "statoids:area_km":"6",
     "statoids:area_mi":"3",
     "statoids:as_of_date":"2010-01-01",
@@ -231,7 +232,7 @@
         "hasc:id":"UM.WQ",
         "iso:id":"UM-79",
         "marc:id":"wk",
-        "qs:id":1297247
+        "qs_pg:id":1297247
     },
     "wof:country":"UM",
     "wof:geomhash":"2e534308fb8d9267df25c004740f53dd",
@@ -251,11 +252,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565738624,
+    "wof:lastmodified":1566595814,
     "wof:name":"Wake Atoll",
     "wof:parent_id":85632333,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"unincorporated territory",
     "wof:population":150,
     "wof:population_rank":1,
