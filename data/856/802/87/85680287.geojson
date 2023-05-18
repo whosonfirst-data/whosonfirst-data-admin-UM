@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000337,
-    "geom:area_square_m":3928227.181894,
+    "geom:area_square_m":3928227.181888,
     "geom:bbox":"166.619395379,19.2755801457,166.652354363,19.3057315127",
     "geom:latitude":19.287156,
     "geom:longitude":166.641539,
@@ -232,10 +232,11 @@
         "hasc:id":"UM.WQ",
         "iso:id":"UM-79",
         "marc:id":"wk",
-        "qs_pg:id":1297247
+        "qs_pg:id":1297247,
+        "uscensus:geoid":"WQ"
     },
     "wof:country":"UM",
-    "wof:geomhash":"2e534308fb8d9267df25c004740f53dd",
+    "wof:geomhash":"f96aaac470d0aaa0fb312044234966c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -252,7 +253,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595814,
+    "wof:lastmodified":1684393644,
     "wof:name":"Wake Atoll",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

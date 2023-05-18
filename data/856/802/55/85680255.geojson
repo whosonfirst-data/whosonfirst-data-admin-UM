@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000058,
-    "geom:area_square_m":718132.402486,
+    "geom:area_square_m":718132.402484,
     "geom:bbox":"-176.485829231,0.19033437683,-176.459177213,0.225897528448",
     "geom:latitude":0.201864,
     "geom:longitude":-176.474652,
@@ -401,11 +401,12 @@
         "iso:id":"UM-81",
         "qs_pg:id":58917,
         "unlc:id":"UM-81",
+        "uscensus:geoid":"FQ",
         "wd:id":"Q46879",
         "wk:page":"Baker Island"
     },
     "wof:country":"UM",
-    "wof:geomhash":"91850c0a882300c888135292d5946f1b",
+    "wof:geomhash":"87b83fe2fd9c136dc55714d7cc02f01b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -422,7 +423,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595814,
+    "wof:lastmodified":1684393598,
     "wof:name":"Baker Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

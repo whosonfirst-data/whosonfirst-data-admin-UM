@@ -444,11 +444,12 @@
         "iso:id":"UM-76",
         "nyt:id":"N40702730997715475571",
         "qs_pg:id":58915,
+        "uscensus:geoid":"BQ",
         "wd:id":"Q25359",
         "wk:page":"Navassa Island"
     },
     "wof:country":"UM",
-    "wof:geomhash":"9bab12eb200f28268330344aa8fbc84c",
+    "wof:geomhash":"6f4fff029b4c85f83370a0b521323382",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -465,7 +466,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595815,
+    "wof:lastmodified":1684393597,
     "wof:name":"Navassa Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

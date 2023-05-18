@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":481137.295799,
+    "geom:area_square_m":481137.295795,
     "geom:bbox":"-176.640492317,0.790187893157,-176.636097785,0.806952216572",
     "geom:latitude":0.799954,
     "geom:longitude":-176.637833,
@@ -348,11 +348,12 @@
         "loc:id":"sh91005479",
         "qs_pg:id":58918,
         "unlc:id":"UM-84",
+        "uscensus:geoid":"HQ",
         "wd:id":"Q131305",
         "wk:page":"Howland Island"
     },
     "wof:country":"UM",
-    "wof:geomhash":"dd0a1feb866ddcdbe5faacffb3d53a7d",
+    "wof:geomhash":"8fe693108f1eb31c9b7be7c711baed0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -369,7 +370,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595813,
+    "wof:lastmodified":1684393598,
     "wof:name":"Howland Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
-    "geom:area_square_m":2346650.488291,
+    "geom:area_square_m":2346650.488295,
     "geom:bbox":"-160.029977994,-0.388767184358,-160.00890052,-0.372491143352",
     "geom:latitude":-0.379633,
     "geom:longitude":-160.019756,
@@ -389,10 +389,11 @@
         "iso:id":"UM-86",
         "qs_pg:id":58916,
         "unlc:id":"UM-86",
+        "uscensus:geoid":"DQ",
         "wd:id":"Q62218"
     },
     "wof:country":"UM",
-    "wof:geomhash":"d303b1eff61305ab137f5cfa3871338c",
+    "wof:geomhash":"914c7547dd07dce5580cde1c001a4fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -409,7 +410,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595814,
+    "wof:lastmodified":1684393598,
     "wof:name":"Jarvis Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",
