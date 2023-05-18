@@ -317,8 +317,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"uscensus",
+    "src:population_date":"2000",
     "statoids:area_km":"3",
     "statoids:area_mi":"1",
     "statoids:as_of_date":"2010-01-01",
@@ -332,6 +332,8 @@
     "statoids:timezone":"-12",
     "statoids:type":"unincorporated territory",
     "unlc:subdivision":"UM-84",
+    "uscensus:population":0,
+    "uscensus:population_year":2000,
     "wd:wordcount":3071,
     "wof:belongsto":[
         102191575,
@@ -348,7 +350,7 @@
         "loc:id":"sh91005479",
         "qs_pg:id":58918,
         "unlc:id":"UM-84",
-        "uscensus:geoid":"HQ",
+        "uscensus:geoid":"74100",
         "wd:id":"Q131305",
         "wk:page":"Howland Island"
     },
@@ -370,7 +372,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684393598,
+    "wof:lastmodified":1684434499,
     "wof:name":"Howland Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

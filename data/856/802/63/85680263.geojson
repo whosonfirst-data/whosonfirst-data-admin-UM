@@ -359,8 +359,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"uscensus",
+    "src:population_date":"2000",
     "statoids:area_km":"4",
     "statoids:area_mi":"2",
     "statoids:as_of_date":"2010-01-01",
@@ -374,6 +374,8 @@
     "statoids:timezone":"-10",
     "statoids:type":"unincorporated territory",
     "unlc:subdivision":"UM-86",
+    "uscensus:population":0,
+    "uscensus:population_year":2000,
     "wd:wordcount":1974,
     "wof:belongsto":[
         102191575,
@@ -389,7 +391,7 @@
         "iso:id":"UM-86",
         "qs_pg:id":58916,
         "unlc:id":"UM-86",
-        "uscensus:geoid":"DQ",
+        "uscensus:geoid":"74150",
         "wd:id":"Q62218"
     },
     "wof:country":"UM",
@@ -410,7 +412,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684393598,
+    "wof:lastmodified":1684434499,
     "wof:name":"Jarvis Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

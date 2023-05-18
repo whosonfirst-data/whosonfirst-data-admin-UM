@@ -413,8 +413,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"uscensus",
+    "src:population_date":"2000",
     "statoids:area_km":"5",
     "statoids:area_mi":"2",
     "statoids:as_of_date":"2010-01-01",
@@ -427,6 +427,8 @@
     "statoids:population":"0",
     "statoids:timezone":"-5",
     "statoids:type":"unincorporated territory",
+    "uscensus:population":0,
+    "uscensus:population_year":2000,
     "wd:wordcount":2168,
     "wof:belongsto":[
         102191575,
@@ -444,7 +446,7 @@
         "iso:id":"UM-76",
         "nyt:id":"N40702730997715475571",
         "qs_pg:id":58915,
-        "uscensus:geoid":"BQ",
+        "uscensus:geoid":"74350",
         "wd:id":"Q25359",
         "wk:page":"Navassa Island"
     },
@@ -466,7 +468,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684393597,
+    "wof:lastmodified":1684434499,
     "wof:name":"Navassa Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",
