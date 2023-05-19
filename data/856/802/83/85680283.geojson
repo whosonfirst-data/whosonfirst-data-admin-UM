@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000576,
-    "geom:area_square_m":7082704.45478,
+    "geom:area_square_m":7082438.828086,
     "geom:bbox":"-162.103627,5.869371,-162.057607,5.890245",
     "geom:latitude":5.880757,
     "geom:longitude":-162.076546,
@@ -375,8 +375,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"uscensus",
+    "src:population_date":"2000",
     "statoids:area_km":"12",
     "statoids:area_mi":"5",
     "statoids:as_of_date":"2010-01-01",
@@ -390,6 +390,8 @@
     "statoids:timezone":"-11",
     "statoids:type":"incorporated territory",
     "unlc:subdivision":"UM-95",
+    "uscensus:population":0,
+    "uscensus:population_year":2000,
     "wd:wordcount":2939,
     "wof:belongsto":[
         102191575,
@@ -405,11 +407,12 @@
         "iso:id":"UM-95",
         "qs_pg:id":234207,
         "unlc:id":"UM-95",
+        "uscensus:geoid":"74400",
         "wd:id":"Q123076",
         "wk:page":"Palmyra Atoll"
     },
     "wof:country":"UM",
-    "wof:geomhash":"2137632760c7d022f61d34792fff3bb0",
+    "wof:geomhash":"4280ab7ce94264e67f396d6d8fe80630",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -426,7 +429,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494822,
+    "wof:lastmodified":1684438875,
     "wof:name":"Palmyra Atoll",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00019,
-    "geom:area_square_m":2346650.488291,
+    "geom:area_square_m":2346650.488295,
     "geom:bbox":"-160.029977994,-0.388767184358,-160.00890052,-0.372491143352",
     "geom:latitude":-0.379633,
     "geom:longitude":-160.019756,
@@ -359,8 +359,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"uscensus",
+    "src:population_date":"2000",
     "statoids:area_km":"4",
     "statoids:area_mi":"2",
     "statoids:as_of_date":"2010-01-01",
@@ -374,6 +374,8 @@
     "statoids:timezone":"-10",
     "statoids:type":"unincorporated territory",
     "unlc:subdivision":"UM-86",
+    "uscensus:population":0,
+    "uscensus:population_year":2000,
     "wd:wordcount":1974,
     "wof:belongsto":[
         102191575,
@@ -389,10 +391,11 @@
         "iso:id":"UM-86",
         "qs_pg:id":58916,
         "unlc:id":"UM-86",
+        "uscensus:geoid":"74150",
         "wd:id":"Q62218"
     },
     "wof:country":"UM",
-    "wof:geomhash":"d303b1eff61305ab137f5cfa3871338c",
+    "wof:geomhash":"914c7547dd07dce5580cde1c001a4fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -409,7 +412,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595814,
+    "wof:lastmodified":1684438875,
     "wof:name":"Jarvis Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

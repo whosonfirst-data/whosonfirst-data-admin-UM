@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000222,
-    "geom:area_square_m":2725170.482918,
+    "geom:area_square_m":2725170.482914,
     "geom:bbox":"-162.400176562,6.43024323084,-162.385283983,6.44513580967",
     "geom:latitude":6.43769,
     "geom:longitude":-162.39273,
@@ -343,8 +343,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"uscensus",
+    "src:population_date":"2000",
     "statoids:area_km":"1",
     "statoids:area_mi":"0",
     "statoids:as_of_date":"2010-01-01",
@@ -358,6 +358,8 @@
     "statoids:timezone":"-11",
     "statoids:type":"unincorporated territory",
     "unlc:subdivision":"UM-89",
+    "uscensus:population":0,
+    "uscensus:population_year":2000,
     "wd:wordcount":1654,
     "wof:belongsto":[
         102191575,
@@ -373,10 +375,11 @@
         "iso:id":"UM-89",
         "qs_pg:id":58920,
         "unlc:id":"UM-89",
+        "uscensus:geoid":"74250",
         "wd:id":"Q130895"
     },
     "wof:country":"UM",
-    "wof:geomhash":"e494705fdd54e8bdf099df4d44e56c3d",
+    "wof:geomhash":"f7bfab20412b05156f6c2355448b11a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -393,7 +396,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595813,
+    "wof:lastmodified":1684438875,
     "wof:name":"Kingman Reef",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

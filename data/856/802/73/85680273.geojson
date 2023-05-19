@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000322,
-    "geom:area_square_m":3513126.148655,
+    "geom:area_square_m":3513126.148659,
     "geom:bbox":"-177.389597134,28.1976585966,-177.321156379,28.2153181015",
     "geom:latitude":28.207232,
     "geom:longitude":-177.367664,
@@ -122,8 +122,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-01-01",
+    "src:population":"uscensus",
+    "src:population_date":"2000",
     "statoids:area_km":"6",
     "statoids:area_mi":"2",
     "statoids:as_of_date":"2010-01-01",
@@ -136,6 +136,8 @@
     "statoids:population":"40",
     "statoids:timezone":"-11",
     "statoids:type":"unincorporated territory",
+    "uscensus:population":0,
+    "uscensus:population_year":2000,
     "wof:belongsto":[
         102191575,
         85632333,
@@ -149,10 +151,11 @@
         "hasc:id":"UM.MQ",
         "iso:id":"UM-71",
         "marc:id":"xf",
-        "qs_pg:id":1192872
+        "qs_pg:id":1192872,
+        "uscensus:geoid":"74300"
     },
     "wof:country":"UM",
-    "wof:geomhash":"bb847870ca35bf5d8287b18c02896230",
+    "wof:geomhash":"7fe54f8f8dfcefebc73ed2d046d138a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -169,12 +172,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566595814,
+    "wof:lastmodified":1684438875,
     "wof:name":"Midway Islands",
     "wof:parent_id":85632333,
     "wof:placetype":"region",
     "wof:placetype_local":"unincorporated territory",
-    "wof:population":40,
+    "wof:population":0,
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-um",
     "wof:shortcode":"MQ",
