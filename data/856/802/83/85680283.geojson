@@ -120,6 +120,9 @@
         "\u00cele Palmyra",
         "atoll Palmyra"
     ],
+    "name:frr_x_preferred":[
+        "Palmyra-Atol"
+    ],
     "name:glg_x_preferred":[
         "Atol Palmyra"
     ],
@@ -213,6 +216,9 @@
     "name:nor_x_preferred":[
         "Palmyra Atoll"
     ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u067e\u0627\u0644\u0645\u06cc\u0631\u0627"
+    ],
     "name:pol_x_preferred":[
         "Palmyra"
     ],
@@ -277,12 +283,18 @@
     "name:urd_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u06c1 \u067e\u0627\u0644\u0645\u06cc\u0631\u0627"
     ],
+    "name:vec_x_preferred":[
+        "ato\u0142o Palmyra"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o Palmyra"
     ],
     "name:vie_x_variant":[
         "\u0110\u1ea3o san h\u00f4 Palmyra",
         "Palmyra"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u5c14\u7c73\u62c9\u73af\u7901"
     ],
     "name:xmf_x_preferred":[
         "\u10de\u10d0\u10da\u10db\u10d8\u10e0\u10d0\u10e8 \u10d0\u10e2\u10dd\u10da\u10d8"
@@ -412,7 +424,7 @@
         "wk:page":"Palmyra Atoll"
     },
     "wof:country":"UM",
-    "wof:geomhash":"4280ab7ce94264e67f396d6d8fe80630",
+    "wof:geomhash":"2137632760c7d022f61d34792fff3bb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -429,7 +441,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684438875,
+    "wof:lastmodified":1690879643,
     "wof:name":"Palmyra Atoll",
     "wof:parent_id":85632333,
     "wof:placetype":"region",
