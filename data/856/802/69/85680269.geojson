@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000222,
     "geom:area_square_m":2725170.482914,
-    "geom:bbox":"-162.400176562,6.43024323084,-162.385283983,6.44513580967",
-    "geom:latitude":6.43769,
+    "geom:bbox":"-162.400177,6.430243,-162.385284,6.445136",
+    "geom:latitude":6.437689,
     "geom:longitude":-162.39273,
     "gn:elevation":-3,
     "iso:country":"UM",
@@ -104,6 +104,12 @@
     "name:fra_x_preferred":[
         "R\u00e9cif Kingman"
     ],
+    "name:fra_x_variant":[
+        "r\u00e9cif Kingman"
+    ],
+    "name:frr_x_preferred":[
+        "Kingmanrab"
+    ],
     "name:glg_x_preferred":[
         "Arrecife Kingman"
     ],
@@ -194,6 +200,9 @@
     "name:nor_x_preferred":[
         "Kingman Reef"
     ],
+    "name:pnb_x_preferred":[
+        "\u06a9\u0646\u06af\u0645\u06cc\u0646 \u0631\u06cc\u0641"
+    ],
     "name:pol_x_preferred":[
         "Kingman"
     ],
@@ -228,6 +237,9 @@
         "Isla Kingman",
         "Arrecife Kingman"
     ],
+    "name:srd_x_preferred":[
+        "Kingman Reef"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u043d\u0433\u043c\u0435\u043d"
     ],
@@ -255,11 +267,17 @@
     "name:urd_x_preferred":[
         "\u06a9\u0646\u06af\u0645\u06cc\u0646 \u0631\u06cc\u0641"
     ],
+    "name:vec_x_preferred":[
+        "bariera cora\u0142ina Kingman"
+    ],
     "name:vie_x_preferred":[
         "Kingman"
     ],
     "name:vie_x_variant":[
         "\u0110\u1ea3o \u0111\u00e1 Kingman"
+    ],
+    "name:wuu_x_preferred":[
+        "\u91d1\u66fc\u7901"
     ],
     "name:yue_x_preferred":[
         "\u91d1\u66fc\u7901"
@@ -379,7 +397,7 @@
         "wd:id":"Q130895"
     },
     "wof:country":"UM",
-    "wof:geomhash":"f7bfab20412b05156f6c2355448b11a5",
+    "wof:geomhash":"2447c02da54149f0e214bc1d517b9b57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -396,7 +414,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684438875,
+    "wof:lastmodified":1690879642,
     "wof:name":"Kingman Reef",
     "wof:parent_id":85632333,
     "wof:placetype":"region",
@@ -410,10 +428,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -162.40017656209864,
-    6.43024323084046,
-    -162.38528398326918,
-    6.44513580966992
+    -162.400177,
+    6.430243,
+    -162.385284,
+    6.445136
 ],
-  "geometry": {"coordinates":[[[-162.40017656209864,6.44513580966992],[-162.38528398326918,6.44513580966992],[-162.38528398326918,6.43024323084046],[-162.40017656209864,6.43024323084046],[-162.40017656209864,6.44513580966992]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-162.40017700000001,6.445136],[-162.38528400000001,6.445136],[-162.38528400000001,6.430243],[-162.40017700000001,6.430243],[-162.40017700000001,6.445136]]],"type":"Polygon"}
 }
