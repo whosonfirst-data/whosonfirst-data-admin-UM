@@ -400,6 +400,7 @@
         "gn:id":5854907,
         "gp:id":23424818,
         "hasc:id":"UM.FQ",
+        "iso:code":"UM-81",
         "iso:id":"UM-81",
         "qs_pg:id":58917,
         "unlc:id":"UM-81",
@@ -407,6 +408,7 @@
         "wd:id":"Q46879",
         "wk:page":"Baker Island"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UM",
     "wof:geomhash":"87b83fe2fd9c136dc55714d7cc02f01b",
     "wof:hierarchy":[
@@ -425,7 +427,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684438875,
+    "wof:lastmodified":1695885335,
     "wof:name":"Baker Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

@@ -372,12 +372,14 @@
         "gn:id":5854936,
         "gp:id":23424866,
         "hasc:id":"UM.KQ",
+        "iso:code":"UM-89",
         "iso:id":"UM-89",
         "qs_pg:id":58920,
         "unlc:id":"UM-89",
         "uscensus:geoid":"74250",
         "wd:id":"Q130895"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UM",
     "wof:geomhash":"f7bfab20412b05156f6c2355448b11a5",
     "wof:hierarchy":[
@@ -396,7 +398,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684438875,
+    "wof:lastmodified":1695885335,
     "wof:name":"Kingman Reef",
     "wof:parent_id":85632333,
     "wof:placetype":"region",
