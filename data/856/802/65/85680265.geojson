@@ -367,12 +367,14 @@
         "gn:id":5854929,
         "gp:id":23424861,
         "hasc:id":"UM.JQ",
+        "iso:code":"UM-67",
         "iso:id":"UM-67",
         "marc:id":"ji",
         "qs_pg:id":962076,
         "uscensus:geoid":"74200",
         "wd:id":"Q131008"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UM",
     "wof:geomhash":"13aa9c3f873af287a806d3afe54b62bb",
     "wof:hierarchy":[
@@ -391,7 +393,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690879642,
+    "wof:lastmodified":1695885335,
     "wof:name":"Johnston Atoll",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

@@ -468,6 +468,7 @@
         "gn:id":4743755,
         "gp:id":23424767,
         "hasc:id":"UM.BQ",
+        "iso:code":"UM-76",
         "iso:id":"UM-76",
         "nyt:id":"N40702730997715475571",
         "qs_pg:id":58915,
@@ -475,6 +476,7 @@
         "wd:id":"Q25359",
         "wk:page":"Navassa Island"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UM",
     "wof:geomhash":"cdebdaf538b4ca85bded095a0a438ed8",
     "wof:hierarchy":[
@@ -493,7 +495,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690879643,
+    "wof:lastmodified":1695885335,
     "wof:name":"Navassa Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

@@ -373,6 +373,7 @@
         "gn:id":5854922,
         "gp:id":23424842,
         "hasc:id":"UM.HQ",
+        "iso:code":"UM-84",
         "iso:id":"UM-84",
         "loc:id":"sh91005479",
         "qs_pg:id":58918,
@@ -381,6 +382,7 @@
         "wd:id":"Q131305",
         "wk:page":"Howland Island"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UM",
     "wof:geomhash":"f21c24ed1e9ef56e1b6c935ceadb3709",
     "wof:hierarchy":[
@@ -399,7 +401,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690879641,
+    "wof:lastmodified":1695885335,
     "wof:name":"Howland Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

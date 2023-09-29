@@ -418,12 +418,14 @@
         "gn:id":5854926,
         "gp:id":23424799,
         "hasc:id":"UM.DQ",
+        "iso:code":"UM-86",
         "iso:id":"UM-86",
         "qs_pg:id":58916,
         "unlc:id":"UM-86",
         "uscensus:geoid":"74150",
         "wd:id":"Q62218"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UM",
     "wof:geomhash":"b62273252e06649830fd280b540a549b",
     "wof:hierarchy":[
@@ -442,7 +444,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690879643,
+    "wof:lastmodified":1695885335,
     "wof:name":"Jarvis Island",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

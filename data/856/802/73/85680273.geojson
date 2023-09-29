@@ -149,11 +149,13 @@
         "gn:id":5854943,
         "gp:id":23424895,
         "hasc:id":"UM.MQ",
+        "iso:code":"UM-71",
         "iso:id":"UM-71",
         "marc:id":"xf",
         "qs_pg:id":1192872,
         "uscensus:geoid":"74300"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UM",
     "wof:geomhash":"7fe54f8f8dfcefebc73ed2d046d138a8",
     "wof:hierarchy":[
@@ -172,7 +174,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684438875,
+    "wof:lastmodified":1695885335,
     "wof:name":"Midway Islands",
     "wof:parent_id":85632333,
     "wof:placetype":"region",

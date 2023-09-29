@@ -416,6 +416,7 @@
         "gn:id":5854952,
         "gp:id":23424878,
         "hasc:id":"UM.LQ",
+        "iso:code":"UM-95",
         "iso:id":"UM-95",
         "qs_pg:id":234207,
         "unlc:id":"UM-95",
@@ -423,6 +424,7 @@
         "wd:id":"Q123076",
         "wk:page":"Palmyra Atoll"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UM",
     "wof:geomhash":"2137632760c7d022f61d34792fff3bb0",
     "wof:hierarchy":[
@@ -441,7 +443,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690879643,
+    "wof:lastmodified":1695885335,
     "wof:name":"Palmyra Atoll",
     "wof:parent_id":85632333,
     "wof:placetype":"region",
