@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000058,
     "geom:area_square_m":718132.402484,
-    "geom:bbox":"-176.485829231,0.19033437683,-176.459177213,0.225897528448",
+    "geom:bbox":"-176.485829,0.190334,-176.459177,0.225898",
     "geom:latitude":0.201864,
     "geom:longitude":-176.474652,
     "iso:country":"UM",
@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0628\u064a\u0643\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0647 \u0628\u064a\u0643\u0631"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u06cc\u06a9\u0631 \u0622\u062f\u0627\u0633\u06cc"
     ],
@@ -52,8 +55,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0995\u09c7\u09b0 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c7\u0995\u09be\u09b0 \u09a6\u09cd\u09ac\u09c0\u09aa"
+    ],
     "name:bos_x_preferred":[
         "Ostrvo Baker"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0435\u0439\u043a\u044a\u0440"
     ],
     "name:cat_x_preferred":[
         "Illa Baker"
@@ -102,6 +111,9 @@
     ],
     "name:fin_x_preferred":[
         "Baker"
+    ],
+    "name:fin_x_variant":[
+        "Bakerinsaari"
     ],
     "name:fra_x_colloquial":[
         "Ile Baker"
@@ -178,6 +190,9 @@
     "name:kor_x_preferred":[
         "\ubca0\uc774\ucee4 \uc12c"
     ],
+    "name:kor_x_variant":[
+        "\ubca0\uc774\ucee4\uc12c"
+    ],
     "name:lat_x_preferred":[
         "Insula Baker"
     ],
@@ -220,6 +235,9 @@
     "name:nor_x_preferred":[
         "Baker\u00f8ya"
     ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u06cc\u06a9\u0631"
+    ],
     "name:pol_x_preferred":[
         "Baker"
     ],
@@ -256,6 +274,9 @@
     "name:spa_x_preferred":[
         "Isla Baker"
     ],
+    "name:srd_x_preferred":[
+        "\u00ccsula Baker"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0458\u043a\u0435\u0440"
     ],
@@ -283,8 +304,17 @@
     "name:urd_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u06cc\u06a9\u0631"
     ],
+    "name:vec_x_preferred":[
+        "\u00eczo\u0142a Baker"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o Baker"
+    ],
+    "name:war_x_preferred":[
+        "Pur\u00f4 Baker"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8d1d\u514b\u5c9b"
     ],
     "name:yor_x_preferred":[
         "Er\u00e9k\u00f9\u1e63\u00f9 Baker"
@@ -410,7 +440,7 @@
     },
     "wof:concordances_official":"iso:code",
     "wof:country":"UM",
-    "wof:geomhash":"87b83fe2fd9c136dc55714d7cc02f01b",
+    "wof:geomhash":"04531bac478444e11233ba8e9e4c4fca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -441,10 +471,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -176.4858292311341,
-    0.19033437683009,
-    -176.45917721255827,
-    0.22589752844823
+    -176.485829,
+    0.190334,
+    -176.459177,
+    0.225898
 ],
-  "geometry": {"coordinates":[[[[-176.47529049426086,0.19310130388209],[-176.47931881401203,0.19033437683009],[-176.48127193914866,0.19147370005129],[-176.48289954297951,0.19432200765459],[-176.48582923113409,0.19651927354567],[-176.48212643089005,0.19668203284959],[-176.47911536398283,0.19790273662204],[-176.47687740826575,0.19745514493906],[-176.47529049426086,0.19310130388209]]],[[[-176.45954342369004,0.22589752844823],[-176.45917721255827,0.21922435112293],[-176.46393795457291,0.22186920869706],[-176.45954342369004,0.22589752844823]]]],"type":"MultiPolygon"}
+  "geometry": {"coordinates":[[[[-176.47529,0.193101],[-176.479319,0.190334],[-176.48127199999999,0.191474],[-176.4829,0.194322],[-176.485829,0.196519],[-176.48212599999999,0.196682],[-176.47911500000001,0.197903],[-176.476877,0.197455],[-176.47529,0.193101]]],[[[-176.459543,0.225898],[-176.45917700000001,0.219224],[-176.46393800000001,0.221869],[-176.459543,0.225898]]]],"type":"MultiPolygon"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
     "geom:area_square_m":481137.295795,
-    "geom:bbox":"-176.640492317,0.790187893157,-176.636097785,0.806952216572",
+    "geom:bbox":"-176.640492,0.790188,-176.636098,0.806952",
     "geom:latitude":0.799954,
     "geom:longitude":-176.637833,
     "iso:country":"UM",
@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0631\u0629 \u0647\u0627\u0648\u0644\u0627\u0646\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0647 \u0647\u0627\u0648\u0644\u0627\u0646\u062f"
+    ],
     "name:aze_x_preferred":[
         "Haulend adas\u0131"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:bos_x_preferred":[
         "Ostrvo Howland"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u0443\u043b\u0430\u043d\u0434"
     ],
     "name:cat_x_preferred":[
         "illa Howland"
@@ -118,6 +124,9 @@
     "name:hye_x_preferred":[
         "\u0540\u0561\u0578\u0582\u056c\u0565\u0576\u0564"
     ],
+    "name:ido_x_preferred":[
+        "Insulo Howland"
+    ],
     "name:ind_x_preferred":[
         "Pulau Howland"
     ],
@@ -144,6 +153,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud558\uc6b8\ub79c\ub4dc \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\ud558\uc6b8\ub79c\ub4dc\uc12c"
     ],
     "name:lat_x_preferred":[
         "Insula Howland"
@@ -178,6 +190,9 @@
     "name:nob_x_preferred":[
         "Howland\u00f8ya"
     ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0627\u0648\u0644\u06cc\u0646\u0688"
+    ],
     "name:pol_x_preferred":[
         "Howland"
     ],
@@ -208,6 +223,9 @@
     "name:spa_x_preferred":[
         "Isla Howland"
     ],
+    "name:srd_x_preferred":[
+        "\u00ccsula Howland"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u0430\u0443\u043b\u0430\u043d\u0434"
     ],
@@ -235,8 +253,17 @@
     "name:urd_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0627\u0648\u0644\u06cc\u0646\u0688"
     ],
+    "name:vec_x_preferred":[
+        "\u00eczo\u0142a Howland"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o Howland"
+    ],
+    "name:war_x_preferred":[
+        "Pur\u00f4 Howland"
+    ],
+    "name:wuu_x_preferred":[
+        "\u8c6a\u5170\u5c9b"
     ],
     "name:yor_x_preferred":[
         "Er\u00e9k\u00f9\u1e63\u00f9 Howland"
@@ -357,7 +384,7 @@
     },
     "wof:concordances_official":"iso:code",
     "wof:country":"UM",
-    "wof:geomhash":"8fe693108f1eb31c9b7be7c711baed0d",
+    "wof:geomhash":"f21c24ed1e9ef56e1b6c935ceadb3709",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -388,10 +415,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -176.6404923172666,
-    0.79018789315677,
-    -176.6360977854844,
-    0.80695221657157
+    -176.640492,
+    0.790188,
+    -176.636098,
+    0.806952
 ],
-  "geometry": {"coordinates":[[[-176.63617916603565,0.79018789315677],[-176.64049231726659,0.80198802362844],[-176.64004472558358,0.80353424690804],[-176.63963782462588,0.80495840160899],[-176.63902747273966,0.80695221657157],[-176.6360977854844,0.80341217743012],[-176.63617916603565,0.79018789315677]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-176.636179,0.790188],[-176.64049199999999,0.801988],[-176.64004499999999,0.803534],[-176.63963799999999,0.804958],[-176.639027,0.806952],[-176.636098,0.803412],[-176.636179,0.790188]]],"type":"Polygon"}
 }
